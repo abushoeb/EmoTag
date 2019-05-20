@@ -1,619 +1,619 @@
-emoji,anger,fear,joy,sadness,native,unicode,bytes-UTF-8,description
-1f3c4,0.12,0.195,0.088,0.222,🏄,1F3C4,\xF0\x9F\x8F\x84,surfer
-1f512,0.146,0.141,0.196,0.212,🔒,1F512,\xF0\x9F\x94\x92,lock
-1f528,0.333,0.427,0.221,0.186,🔨,1F528,\xF0\x9F\x94\xA8,hammer
-1f615,0.331,0.343,0.105,0.34,😕,1F615,\xF0\x9F\x98\x95,confused face
-23e9,0.327,0.322,0.17,0.265,⏩,23E9,\xE2\x8F\xA9,black right-pointing double triangle
-1f3e2,0.181,0.359,0.22,0.19,🏢,1F3E2,\xF0\x9F\x8F\xA2,office building
-1f4fb,0.187,0.222,0.316,0.361,📻,1F4FB,\xF0\x9F\x93\xBB,radio
-1f3b8,0.144,0.125,0.257,0.304,🎸,1F3B8,\xF0\x9F\x8E\xB8,guitar
-1f437,0.179,0.214,0.165,0.337,🐷,1F437,\xF0\x9F\x90\xB7,pig face
-1f439,0.215,0.196,0.305,0.194,🐹,1F439,\xF0\x9F\x90\xB9,hamster face
-1f46e,0.34,0.493,0.161,0.27,👮,1F46E,\xF0\x9F\x91\xAE,police officer
-1f49a,0.126,0.159,0.373,0.19,💚,1F49A,\xF0\x9F\x92\x9A,green heart
-1f524,0.134,0.126,0.166,0.121,🔤,1F524,\xF0\x9F\x94\xA4,input symbol for latin letters
-1f629,0.236,0.274,0.186,0.234,😩,1F629,\xF0\x9F\x98\xA9,weary face
-267b,0.261,0.271,0.334,0.152,♻,267B,\xE2\x99\xBB,black universal recycling symbol
-1f315,0.176,0.284,0.312,0.208,🌕,1F315,\xF0\x9F\x8C\x95,full moon symbol
-1f383,0.129,0.327,0.09,0.092,🎃,1F383,\xF0\x9F\x8E\x83,jack-o-lantern
-1f390,0.214,0.176,0.271,0.166,🎐,1F390,\xF0\x9F\x8E\x90,wind chime
-1f450,0.203,0.189,0.167,0.23,👐,1F450,\xF0\x9F\x91\x90,open hands sign
-1f4aa,0.225,0.251,0.231,0.204,💪,1F4AA,\xF0\x9F\x92\xAA,flexed biceps
-2b07,0.339,0.268,0.142,0.252,⬇,2B07,\xE2\xAC\x87,downwards black arrow
-1f3c2,0.137,0.132,0.029,0.206,🏂,1F3C2,\xF0\x9F\x8F\x82,snowboarder
-1f4a5,0.169,0.164,0.048,0.2,💥,1F4A5,\xF0\x9F\x92\xA5,collision symbol
-1f50f,0.168,0.138,0.199,0.123,🔏,1F50F,\xF0\x9F\x94\x8F,lock with ink pen
-1f62b,0.264,0.376,0.155,0.303,😫,1F62B,\xF0\x9F\x98\xAB,tired face
-1f34e,0.251,0.182,0.195,0.121,🍎,1F34E,\xF0\x9F\x8D\x8E,red apple
-1f52b,0.259,0.388,0.081,0.128,🔫,1F52B,\xF0\x9F\x94\xAB,pistol
-3299,0.197,0.2,0.221,0.24,㊙,3299,\xE3\x8A\x99,circled ideograph secret
-1f3e7,0.128,0.179,0.135,0.171,🏧,1F3E7,\xF0\x9F\x8F\xA7,automated teller machine
-1f518,0.218,0.209,0.158,0.261,🔘,1F518,\xF0\x9F\x94\x98,radio button
-1f4cb,0.157,0.233,0.331,0.211,📋,1F4CB,\xF0\x9F\x93\x8B,clipboard
-1f623,0.327,0.516,0.175,0.416,😣,1F623,\xF0\x9F\x98\xA3,persevering face
-2199,0.137,0.171,0.151,0.12,↙,2199,\xE2\x86\x99,south west arrow
-1f361,0.279,0.193,0.139,0.054,🍡,1F361,\xF0\x9F\x8D\xA1,dango
-1f369,0.152,0.259,0.136,0.15,🍩,1F369,\xF0\x9F\x8D\xA9,doughnut
-1f525,0.306,0.225,0.103,0.179,🔥,1F525,\xF0\x9F\x94\xA5,fire
-1f362,0.123,0.077,0.069,0.166,🍢,1F362,\xF0\x9F\x8D\xA2,oden
-1f47f,0.385,0.257,0.03,0.211,👿,1F47F,\xF0\x9F\x91\xBF,imp
-1f619,0.203,0.126,0.256,0.138,😙,1F619,\xF0\x9F\x98\x99,kissing face with smiling eyes
-1f452,0.175,0.17,0.281,0.151,👒,1F452,\xF0\x9F\x91\x92,womans hat
-1f51b,0.126,0.139,0.068,0.211,🔛,1F51B,\xF0\x9F\x94\x9B,on with exclamation mark with left right arrow above
-1f35a,0.203,0.126,0.222,0.289,🍚,1F35A,\xF0\x9F\x8D\x9A,cooked rice
-1f3b7,0.107,0.16,0.244,0.216,🎷,1F3B7,\xF0\x9F\x8E\xB7,saxophone
-1f64c,0.122,0.101,0.254,0.236,🙌,1F64C,\xF0\x9F\x99\x8C,person raising both hands in celebration
-2b06,0.382,0.293,0.219,0.284,⬆,2B06,\xE2\xAC\x86,upwards black arrow
-1f375,0.156,0.237,0.429,0.07,🍵,1F375,\xF0\x9F\x8D\xB5,teacup without handle
-1f4c3,0.201,0.294,0.282,0.27,📃,1F4C3,\xF0\x9F\x93\x83,page with curl
-1f519,0.075,0.166,0.062,0.202,🔙,1F519,\xF0\x9F\x94\x99,back with leftwards arrow above
-1f61c,0.126,0.059,0.139,0.129,😜,1F61C,\xF0\x9F\x98\x9C,face with stuck-out tongue and winking eye
-2648,0.214,0.212,0.284,0.196,♈,2648,\xE2\x99\x88,aries
-1f356,0.177,0.218,0.213,0.106,🍖,1F356,\xF0\x9F\x8D\x96,meat on bone
-1f4cd,0.164,0.269,0.148,0.29,📍,1F4CD,\xF0\x9F\x93\x8D,round pushpin
-1f4fa,0.322,0.247,0.227,0.222,📺,1F4FA,\xF0\x9F\x93\xBA,television
-1f618,0.233,0.022,0.215,0.144,😘,1F618,\xF0\x9F\x98\x98,face throwing a kiss
-2139,0.178,0.259,0.264,0.284,ℹ,2139,\xE2\x84\xB9,information source
-1f3b4,0.181,0.211,0.067,0.134,🎴,1F3B4,\xF0\x9F\x8E\xB4,flower playing cards
-1f497,0.151,0.067,0.348,0.13,💗,1F497,\xF0\x9F\x92\x97,growing heart
-1f60d,0.307,0.18,0.308,0.137,😍,1F60D,\xF0\x9F\x98\x8D,smiling face with heart-shaped eyes
-1f617,0.215,0.171,0.159,0.272,😗,1F617,\xF0\x9F\x98\x97,kissing face
-1f31f,0.191,0.215,0.38,0.134,🌟,1F31F,\xF0\x9F\x8C\x9F,glowing star
-1f3ca,0.175,0.159,0.086,0.245,🏊,1F3CA,\xF0\x9F\x8F\x8A,swimmer
-1f479,0.37,0.419,0.109,0.257,👹,1F479,\xF0\x9F\x91\xB9,japanese ogre
-1f4c8,0.224,0.259,0.427,0.215,📈,1F4C8,\xF0\x9F\x93\x88,chart with upwards trend
-1f621,0.468,0.362,0.074,0.401,😡,1F621,\xF0\x9F\x98\xA1,pouting face
-1f365,0.108,0.216,0.355,0.149,🍥,1F365,\xF0\x9F\x8D\xA5,fish cake with swirl design
-1f36a,0.117,0.18,0.168,0.1,🍪,1F36A,\xF0\x9F\x8D\xAA,cookie
-1f3bd,0.138,0.081,0.202,0.203,🎽,1F3BD,\xF0\x9F\x8E\xBD,running shirt with sash
-1f49f,0.137,0.046,0.315,0.141,💟,1F49F,\xF0\x9F\x92\x9F,heart decoration
-1f4dc,0.254,0.267,0.276,0.235,📜,1F4DC,\xF0\x9F\x93\x9C,scroll
-1f51d,0.162,0.185,0.205,0.191,🔝,1F51D,\xF0\x9F\x94\x9D,top with upwards arrow above
-1f628,0.344,0.389,0.088,0.332,😨,1F628,\xF0\x9F\x98\xA8,fearful face
-1f3e0,0.137,0.274,0.186,0.235,🏠,1F3E0,\xF0\x9F\x8F\xA0,house building
-1f351,0.344,0.204,0.128,0.119,🍑,1F351,\xF0\x9F\x8D\x91,peach
-1f3a2,0.065,0.133,0.111,0.189,🎢,1F3A2,\xF0\x9F\x8E\xA2,roller coaster
-1f3ba,0.128,0.178,0.206,0.221,🎺,1F3BA,\xF0\x9F\x8E\xBA,trumpet
-1f444,0.245,0.136,0.321,0.121,👄,1F444,\xF0\x9F\x91\x84,mouth
-1f438,0.408,0.291,0.197,0.167,🐸,1F438,\xF0\x9F\x90\xB8,frog face
-1f526,0.074,0.197,0.143,0.131,🔦,1F526,\xF0\x9F\x94\xA6,electric torch
-1f613,0.321,0.496,0.173,0.447,😓,1F613,\xF0\x9F\x98\x93,face with cold sweat
-1f36e,0.164,0.176,0.158,0.131,🍮,1F36E,\xF0\x9F\x8D\xAE,custard
-1f378,0.032,0.143,0.146,0.046,🍸,1F378,\xF0\x9F\x8D\xB8,cocktail glass
-1f38e,0.053,0.14,0.07,0.08,🎎,1F38E,\xF0\x9F\x8E\x8E,japanese dolls
-1f4c9,0.288,0.396,0.294,0.383,📉,1F4C9,\xF0\x9F\x93\x89,chart with downwards trend
-1f53c,0.264,0.261,0.238,0.295,🔼,1F53C,\xF0\x9F\x94\xBC,up-pointing small red triangle
-1f49b,0.158,0.177,0.27,0.262,💛,1F49B,\xF0\x9F\x92\x9B,yellow heart
-264a,0.228,0.132,0.262,0.177,♊,264A,\xE2\x99\x8A,gemini
-1f33a,0.085,0.218,0.316,0.151,🌺,1F33A,\xF0\x9F\x8C\xBA,hibiscus
-1f4d4,0.139,0.15,0.278,0.185,📔,1F4D4,\xF0\x9F\x93\x94,notebook with decorative cover
-1f004,0.171,0.263,0.128,0.212,🀄,1F004,\xF0\x9F\x80\x84,mahjong tile red dragon
-1f363,0.134,0.196,0.137,0.214,🍣,1F363,\xF0\x9F\x8D\xA3,sushi
-1f42b,0.151,0.263,0.131,0.154,🐫,1F42B,\xF0\x9F\x90\xAB,bactrian camel
-1f4ae,0.187,0.141,0.19,0.144,💮,1F4AE,\xF0\x9F\x92\xAE,white flower
-1f640,0.251,0.27,0.095,0.242,🙀,1F640,\xF0\x9F\x99\x80,weary cat face
-1f37b,0.096,0.101,0.179,0.132,🍻,1F37B,\xF0\x9F\x8D\xBB,clinking beer mugs
-1f60e,0.036,0.092,0.026,0.093,😎,1F60E,\xF0\x9F\x98\x8E,smiling face with sunglasses
-25ab,0.276,0.227,0.125,0.161,▫,25AB,\xE2\x96\xAB,white small square
-2b55,0.154,0.178,0.122,0.315,⭕,2B55,\xE2\xAD\x95,heavy large circle
-1f306,0.053,0.24,0.259,0.234,🌆,1F306,\xF0\x9F\x8C\x86,cityscape at dusk
-1f35c,0.183,0.129,0.167,0.226,🍜,1F35C,\xF0\x9F\x8D\x9C,steaming bowl
-1f3ed,0.205,0.306,0.246,0.21,🏭,1F3ED,\xF0\x9F\x8F\xAD,factory
-1f61e,0.318,0.467,0.131,0.394,😞,1F61E,\xF0\x9F\x98\x9E,disappointed face
-1f386,0.051,0.165,0.191,0.165,🎆,1F386,\xF0\x9F\x8E\x86,fireworks
-1f445,0.316,0.062,0.136,0.133,👅,1F445,\xF0\x9F\x91\x85,tongue
-1f4fc,0.213,0.25,0.312,0.208,📼,1F4FC,\xF0\x9F\x93\xBC,videocassette
-1f557,0.118,0.341,0.222,0.246,🕗,1F557,\xF0\x9F\x95\x97,clock face eight oclock
-1f303,0.09,0.174,0.298,0.289,🌃,1F303,\xF0\x9F\x8C\x83,night with stars
-1f337,0.175,0.245,0.37,0.188,🌷,1F337,\xF0\x9F\x8C\xB7,tulip
-1f40d,0.37,0.352,0.169,0.166,🐍,1F40D,\xF0\x9F\x90\x8D,snake
-1f4be,0.168,0.324,0.341,0.308,💾,1F4BE,\xF0\x9F\x92\xBE,floppy disk
-1f4d9,0.181,0.193,0.186,0.217,📙,1F4D9,\xF0\x9F\x93\x99,orange book
-1f3ef,0.092,0.232,0.164,0.149,🏯,1F3EF,\xF0\x9F\x8F\xAF,japanese castle
-1f330,0.212,0.167,0.169,0.078,🌰,1F330,\xF0\x9F\x8C\xB0,chestnut
-1f35b,0.161,0.172,0.175,0.145,🍛,1F35B,\xF0\x9F\x8D\x9B,curry and rice
-1f392,0.127,0.154,0.174,0.094,🎒,1F392,\xF0\x9F\x8E\x92,school satchel
-1f4a0,0.222,0.179,0.32,0.249,💠,1F4A0,\xF0\x9F\x92\xA0,diamond shape with a dot inside
-1f4f6,0.164,0.122,0.151,0.132,📶,1F4F6,\xF0\x9F\x93\xB6,antenna with bars
-1f63e,0.454,0.268,0.119,0.295,😾,1F63E,\xF0\x9F\x98\xBE,pouting cat face
-261d,0.254,0.233,0.492,0.36,☝,261D,\xE2\x98\x9D,white up pointing index
-1f4b9,0.175,0.248,0.305,0.208,💹,1F4B9,\xF0\x9F\x92\xB9,chart with upwards trend and yen sign
-1f4e1,0.204,0.259,0.303,0.27,📡,1F4E1,\xF0\x9F\x93\xA1,satellite antenna
-1f4f1,0.127,0.269,0.172,0.309,📱,1F4F1,\xF0\x9F\x93\xB1,mobile phone
-25fd,0.305,0.227,0.126,0.187,◽,25FD,\xE2\x97\xBD,white medium small square
-2b1c,0.348,0.194,0.155,0.229,⬜,2B1C,\xE2\xAC\x9C,white large square
-1f387,0.103,0.209,0.221,0.206,🎇,1F387,\xF0\x9F\x8E\x87,firework sparkler
-1f41f,0.131,0.167,0.147,0.102,🐟,1F41F,\xF0\x9F\x90\x9F,fish
-1f473,0.212,0.293,0.302,0.239,👳,1F473,\xF0\x9F\x91\xB3,man with turban
-1f52e,0.169,0.22,0.354,0.196,🔮,1F52E,\xF0\x9F\x94\xAE,crystal ball
-1f391,0.149,0.143,0.437,0.231,🎑,1F391,\xF0\x9F\x8E\x91,moon viewing ceremony
-1f420,0.063,0.271,0.14,0.122,🐠,1F420,\xF0\x9F\x90\xA0,tropical fish
-1f43e,0.266,0.249,0.129,0.155,🐾,1F43E,\xF0\x9F\x90\xBE,paw prints
-1f45f,0.232,0.094,0.089,0.185,👟,1F45F,\xF0\x9F\x91\x9F,athletic shoe
-1f625,0.3,0.474,0.145,0.391,😥,1F625,\xF0\x9F\x98\xA5,disappointed but relieved face
-1f384,0.137,0.17,0.285,0.081,🎄,1F384,\xF0\x9F\x8E\x84,christmas tree
-1f414,0.169,0.192,0.218,0.127,🐔,1F414,\xF0\x9F\x90\x94,chicken
-1f496,0.217,0.068,0.422,0.163,💖,1F496,\xF0\x9F\x92\x96,sparkling heart
-1f498,0.22,0.074,0.373,0.101,💘,1F498,\xF0\x9F\x92\x98,heart with arrow
-1f635,0.347,0.458,0.123,0.361,😵,1F635,\xF0\x9F\x98\xB5,dizzy face
-1f463,0.21,0.21,0.163,0.179,👣,1F463,\xF0\x9F\x91\xA3,footprints
-1f4ee,0.269,0.171,0.219,0.175,📮,1F4EE,\xF0\x9F\x93\xAE,postbox
-1f550,0.144,0.341,0.209,0.198,🕐,1F550,\xF0\x9F\x95\x90,clock face one oclock
-1f63d,0.189,0.119,0.215,0.21,😽,1F63D,\xF0\x9F\x98\xBD,kissing cat face with closed eyes
-1f447,0.393,0.196,0.317,0.286,👇,1F447,\xF0\x9F\x91\x87,white down pointing backhand index
-26f5,0.104,0.225,0.142,0.205,⛵,26F5,\xE2\x9B\xB5,sailboat
-1f434,0.254,0.164,0.078,0.159,🐴,1F434,\xF0\x9F\x90\xB4,horse face
-21aa,0.138,0.275,0.228,0.229,↪,21AA,\xE2\x86\xAA,rightwards arrow with hook
-1f334,0.035,0.343,0.129,0.238,🌴,1F334,\xF0\x9F\x8C\xB4,palm tree
-1f41d,0.381,0.285,0.128,0.111,🐝,1F41D,\xF0\x9F\x90\x9D,honeybee
-1f430,0.165,0.222,0.217,0.037,🐰,1F430,\xF0\x9F\x90\xB0,rabbit face
-1f614,0.261,0.404,0.145,0.313,😔,1F614,\xF0\x9F\x98\x94,pensive face
-2693,0.22,0.179,0.245,0.243,⚓,2693,\xE2\x9A\x93,anchor
-1f368,0.228,0.189,0.232,0.114,🍨,1F368,\xF0\x9F\x8D\xA8,ice cream
-1f371,0.136,0.16,0.159,0.212,🍱,1F371,\xF0\x9F\x8D\xB1,bento box
-1f45a,0.208,0.154,0.179,0.242,👚,1F45A,\xF0\x9F\x91\x9A,womans clothes
-1f47a,0.42,0.35,0.149,0.301,👺,1F47A,\xF0\x9F\x91\xBA,japanese goblin
-1f487,0.237,0.215,0.266,0.153,💇,1F487,\xF0\x9F\x92\x87,haircut
-264b,0.209,0.219,0.201,0.255,♋,264B,\xE2\x99\x8B,cancer
-1f611,0.415,0.308,0.11,0.319,😑,1F611,\xF0\x9F\x98\x91,expressionless face
-1f64b,0.068,0.084,0.08,0.156,🙋,1F64B,\xF0\x9F\x99\x8B,happy person raising one hand
-1f4a6,0.26,0.119,0.081,0.169,💦,1F4A6,\xF0\x9F\x92\xA6,splashing sweat symbol
-1f352,0.171,0.139,0.155,0.087,🍒,1F352,\xF0\x9F\x8D\x92,cherries
-1f50c,0.124,0.14,0.078,0.139,🔌,1F50C,\xF0\x9F\x94\x8C,electric plug
-2601,0.18,0.231,0.266,0.295,☁,2601,\xE2\x98\x81,cloud
-231a,0.183,0.276,0.172,0.235,⌚,231A,\xE2\x8C\x9A,watch
-26ea,0.208,0.276,0.773,0.366,⛪,26EA,\xE2\x9B\xAA,church
-1f300,0.169,0.288,0.177,0.214,🌀,1F300,\xF0\x9F\x8C\x80,cyclone
-2b1b,0.396,0.159,0.222,0.263,⬛,2B1B,\xE2\xAC\x9B,black large square
-1f313,0.241,0.233,0.265,0.284,🌓,1F313,\xF0\x9F\x8C\x93,first quarter moon symbol
-1f440,0.272,0.218,0.049,0.063,👀,1F440,\xF0\x9F\x91\x80,eyes
-1f4f2,0.098,0.142,0.156,0.206,📲,1F4F2,\xF0\x9F\x93\xB2,mobile phone with rightwards arrow at left
-25aa,0.319,0.249,0.141,0.227,▪,25AA,\xE2\x96\xAA,black small square
-2660,0.246,0.213,0.187,0.279,♠,2660,\xE2\x99\xA0,black spade suit
-1f3ad,0.159,0.108,0.204,0.162,🎭,1F3AD,\xF0\x9F\x8E\xAD,performing arts
-1f424,0.156,0.238,0.125,0.057,🐤,1F424,\xF0\x9F\x90\xA4,baby chick
-1f40c,0.162,0.239,0.199,0.17,🐌,1F40C,\xF0\x9F\x90\x8C,snail
-1f431,0.147,0.185,0.197,0.167,🐱,1F431,\xF0\x9F\x90\xB1,cat face
-1f43c,0.069,0.232,0.091,0.153,🐼,1F43C,\xF0\x9F\x90\xBC,panda face
-1f553,0.165,0.361,0.171,0.282,🕓,1F553,\xF0\x9F\x95\x93,clock face four oclock
-1f456,0.2,0.109,0.134,0.209,👖,1F456,\xF0\x9F\x91\x96,jeans
-1f33c,0.202,0.299,0.314,0.242,🌼,1F33C,\xF0\x9F\x8C\xBC,blossom
-1f3a3,0.174,0.148,0.075,0.128,🎣,1F3A3,\xF0\x9F\x8E\xA3,fishing pole and fish
-1f4d0,0.198,0.201,0.284,0.168,📐,1F4D0,\xF0\x9F\x93\x90,triangular ruler
-1f552,0.167,0.369,0.209,0.282,🕒,1F552,\xF0\x9F\x95\x92,clock face three oclock
-1f33b,0.203,0.243,0.354,0.212,🌻,1F33B,\xF0\x9F\x8C\xBB,sunflower
-1f41e,0.228,0.22,0.208,0.153,🐞,1F41E,\xF0\x9F\x90\x9E,lady beetle
-1f423,0.099,0.171,0.16,0.125,🐣,1F423,\xF0\x9F\x90\xA3,hatching chick
-1f4b2,0.203,0.149,0.113,0.228,💲,1F4B2,\xF0\x9F\x92\xB2,heavy dollar sign
-2649,0.22,0.2,0.257,0.253,♉,2649,\xE2\x99\x89,taurus
-2935,0.257,0.276,0.287,0.245,⤵,2935,\xE2\xA4\xB5,arrow pointing rightwards then curving downwards
-1f360,0.191,0.219,0.25,0.121,🍠,1F360,\xF0\x9F\x8D\xA0,roasted sweet potato
-1f38c,0.114,0.048,0.039,0.207,🎌,1F38C,\xF0\x9F\x8E\x8C,crossed flags
-1f520,0.182,0.175,0.161,0.182,🔠,1F520,\xF0\x9F\x94\xA0,input symbol for latin capital letters
-1f52a,0.321,0.449,0.075,0.125,🔪,1F52A,\xF0\x9F\x94\xAA,hocho
-1f4cf,0.249,0.206,0.215,0.155,📏,1F4CF,\xF0\x9F\x93\x8F,straight ruler
-1f61d,0.083,0.14,0.027,0.143,😝,1F61D,\xF0\x9F\x98\x9D,face with stuck-out tongue and tightly-closed eyes
-1f4da,0.167,0.157,0.351,0.141,📚,1F4DA,\xF0\x9F\x93\x9A,books
-1f30c,0.167,0.201,0.437,0.22,🌌,1F30C,\xF0\x9F\x8C\x8C,milky way
-1f3ab,0.108,0.082,0.101,0.327,🎫,1F3AB,\xF0\x9F\x8E\xAB,ticket
-1f4f3,0.075,0.176,0.083,0.134,📳,1F4F3,\xF0\x9F\x93\xB3,vibration mode
-1f646,0.155,0.142,0.141,0.23,🙆,1F646,\xF0\x9F\x99\x86,face with ok gesture
-1f30b,0.207,0.247,0.141,0.22,🌋,1F30B,\xF0\x9F\x8C\x8B,volcano
-1f3ec,0.081,0.231,0.199,0.18,🏬,1F3EC,\xF0\x9F\x8F\xAC,department store
-1f472,0.255,0.262,0.126,0.176,👲,1F472,\xF0\x9F\x91\xB2,man with gua pi mao
-1f48f,0.188,0.122,0.358,0.227,💏,1F48F,\xF0\x9F\x92\x8F,kiss
-1f302,0.136,0.202,0.201,0.295,🌂,1F302,\xF0\x9F\x8C\x82,closed umbrella
-1f44b,0.256,0.252,0.146,0.199,👋,1F44B,\xF0\x9F\x91\x8B,waving hand sign
-1f358,0.241,0.156,0.111,0.153,🍘,1F358,\xF0\x9F\x8D\x98,rice cracker
-1f64a,0.214,0.2,0.081,0.147,🙊,1F64A,\xF0\x9F\x99\x8A,speak-no-evil monkey
-2668,0.21,0.228,0.128,0.173,♨,2668,\xE2\x99\xA8,hot springs
-26fa,0.105,0.189,0.247,0.151,⛺,26FA,\xE2\x9B\xBA,tent
-1f34d,0.117,0.194,0.133,0.123,🍍,1F34D,\xF0\x9F\x8D\x8D,pineapple
-1f477,0.204,0.298,0.241,0.197,👷,1F477,\xF0\x9F\x91\xB7,construction worker
-1f647,0.256,0.331,0.262,0.299,🙇,1F647,\xF0\x9F\x99\x87,person bowing deeply
-1f3be,0.174,0.198,0.174,0.327,🎾,1F3BE,\xF0\x9F\x8E\xBE,tennis racquet and ball
-1f634,0.266,0.234,0.33,0.255,😴,1F634,\xF0\x9F\x98\xB4,sleeping face
-1f3ee,0.111,0.235,0.225,0.163,🏮,1F3EE,\xF0\x9F\x8F\xAE,izakaya lantern
-1f380,0.202,0.203,0.345,0.193,🎀,1F380,\xF0\x9F\x8E\x80,ribbon
-1f517,0.258,0.217,0.179,0.262,🔗,1F517,\xF0\x9F\x94\x97,link symbol
-1f604,0.184,0.197,0.188,0.149,😄,1F604,\xF0\x9F\x98\x84,smiling face with open mouth and smiling eyes
-1f64f,0.187,0.178,0.485,0.351,🙏,1F64F,\xF0\x9F\x99\x8F,person with folded hands
-1f3b5,0.26,0.191,0.341,0.328,🎵,1F3B5,\xF0\x9F\x8E\xB5,musical note
-1f412,0.179,0.379,0.083,0.032,🐒,1F412,\xF0\x9F\x90\x92,monkey
-1f42d,0.189,0.208,0.136,0.094,🐭,1F42D,\xF0\x9F\x90\xAD,mouse face
-1f486,0.264,0.232,0.258,0.282,💆,1F486,\xF0\x9F\x92\x86,face massage
-2611,0.305,0.295,0.206,0.251,☑,2611,\xE2\x98\x91,ballot box with check
-1f340,0.17,0.16,0.324,0.156,🍀,1F340,\xF0\x9F\x8D\x80,four leaf clover
-1f381,0.076,0.188,0.326,0.058,🎁,1F381,\xF0\x9F\x8E\x81,wrapped present
-1f636,0.34,0.335,0.15,0.359,😶,1F636,\xF0\x9F\x98\xB6,face without mouth
-1f499,0.148,0.064,0.286,0.281,💙,1F499,\xF0\x9F\x92\x99,blue heart
-1f530,0.222,0.121,0.237,0.28,🔰,1F530,\xF0\x9F\x94\xB0,japanese symbol for beginner
-1f5ff,0.131,0.153,0.118,0.095,🗿,1F5FF,\xF0\x9F\x97\xBF,moyai
-1f43a,0.185,0.289,0.083,0.172,🐺,1F43A,\xF0\x9F\x90\xBA,wolf face
-1f4bb,0.127,0.234,0.35,0.255,💻,1F4BB,\xF0\x9F\x92\xBB,personal computer
-1f344,0.188,0.239,0.21,0.084,🍄,1F344,\xF0\x9F\x8D\x84,mushroom
-1f603,0.194,0.177,0.216,0.17,😃,1F603,\xF0\x9F\x98\x83,smiling face with open mouth
-2666,0.305,0.178,0.226,0.213,♦,2666,\xE2\x99\xA6,black diamond suit
-1f460,0.278,0.119,0.232,0.195,👠,1F460,\xF0\x9F\x91\xA0,high-heeled shoe
-1f523,0.108,0.195,0.138,0.17,🔣,1F523,\xF0\x9F\x94\xA3,input symbol for symbols
-1f38b,0.164,0.239,0.288,0.122,🎋,1F38B,\xF0\x9F\x8E\x8B,tanabata tree
-1f4b1,0.159,0.208,0.127,0.226,💱,1F4B1,\xF0\x9F\x92\xB1,currency exchange
-1f3e1,0.115,0.24,0.268,0.153,🏡,1F3E1,\xF0\x9F\x8F\xA1,house with garden
-1f41a,0.106,0.301,0.316,0.174,🐚,1F41A,\xF0\x9F\x90\x9A,spiral shell
-1f449,0.197,0.258,0.249,0.258,👉,1F449,\xF0\x9F\x91\x89,white right pointing backhand index
-1f45c,0.099,0.154,0.223,0.293,👜,1F45C,\xF0\x9F\x91\x9C,handbag
-264e,0.144,0.193,0.275,0.161,♎,264E,\xE2\x99\x8E,libra
-1f349,0.152,0.143,0.133,0.071,🍉,1F349,\xF0\x9F\x8D\x89,watermelon
-1f453,0.157,0.178,0.123,0.149,👓,1F453,\xF0\x9F\x91\x93,eyeglasses
-1f637,0.436,0.346,0.159,0.406,😷,1F637,\xF0\x9F\x98\xB7,face with medical mask
-260e,0.257,0.204,0.221,0.267,☎,260E,\xE2\x98\x8E,black telephone
-1f3c6,0.131,0.194,0.101,0.274,🏆,1F3C6,\xF0\x9F\x8F\x86,trophy
-1f3c8,0.185,0.21,0.165,0.354,🏈,1F3C8,\xF0\x9F\x8F\x88,american football
-1f3e6,0.236,0.284,0.238,0.233,🏦,1F3E6,\xF0\x9F\x8F\xA6,bank
-1f47c,0.206,0.197,0.414,0.371,👼,1F47C,\xF0\x9F\x91\xBC,baby angel
-1f4ca,0.213,0.255,0.41,0.228,📊,1F4CA,\xF0\x9F\x93\x8A,bar chart
-1f510,0.206,0.095,0.28,0.16,🔐,1F510,\xF0\x9F\x94\x90,closed lock with key
-1f559,0.141,0.304,0.191,0.309,🕙,1F559,\xF0\x9F\x95\x99,clock face ten oclock
-1f53a,0.321,0.243,0.25,0.214,🔺,1F53A,\xF0\x9F\x94\xBA,up-pointing red triangle
-1f605,0.19,0.307,0.232,0.277,😅,1F605,\xF0\x9F\x98\x85,smiling face with open mouth and cold sweat
-1f62d,0.246,0.276,0.198,0.272,😭,1F62D,\xF0\x9F\x98\xAD,loudly crying face
-1f354,0.177,0.122,0.186,0.113,🍔,1F354,\xF0\x9F\x8D\x94,hamburger
-1f454,0.202,0.094,0.112,0.147,👔,1F454,\xF0\x9F\x91\x94,necktie
-1f4c7,0.147,0.196,0.249,0.212,📇,1F4C7,\xF0\x9F\x93\x87,card index
-1f53b,0.304,0.242,0.207,0.185,🔻,1F53B,\xF0\x9F\x94\xBB,down-pointing red triangle
-1f38d,0.115,0.271,0.336,0.17,🎍,1F38D,\xF0\x9F\x8E\x8D,pine decoration
-1f63a,0.149,0.192,0.145,0.25,😺,1F63A,\xF0\x9F\x98\xBA,smiling cat face with open mouth
-23f3,0.197,0.31,0.266,0.25,⏳,23F3,\xE2\x8F\xB3,hourglass with flowing sand
-26c5,0.112,0.279,0.345,0.252,⛅,26C5,\xE2\x9B\x85,sun behind cloud
-1f388,0.042,0.128,0.102,0.077,🎈,1F388,\xF0\x9F\x8E\x88,balloon
-1f46a,0.249,0.132,0.418,0.215,👪,1F46A,\xF0\x9F\x91\xAA,family
-2049,0.188,0.248,0.085,0.219,⁉,2049,\xE2\x81\x89,exclamation question mark
-1f357,0.121,0.183,0.215,0.122,🍗,1F357,\xF0\x9F\x8D\x97,poultry leg
-1f307,0.065,0.199,0.286,0.201,🌇,1F307,\xF0\x9F\x8C\x87,sunset over buildings
-1f38f,0.125,0.212,0.131,0.095,🎏,1F38F,\xF0\x9F\x8E\x8F,carp streamer
-1f60a,0.067,0.073,0.248,0.247,😊,1F60A,\xF0\x9F\x98\x8A,smiling face with smiling eyes
-1f5fb,0.196,0.225,0.253,0.172,🗻,1F5FB,\xF0\x9F\x97\xBB,mount fuji
-25b6,0.168,0.284,0.17,0.178,▶,25B6,\xE2\x96\xB6,black right-pointing triangle
-26a1,0.252,0.244,0.147,0.228,⚡,26A1,\xE2\x9A\xA1,high voltage sign
-1f34c,0.219,0.296,0.184,0.086,🍌,1F34C,\xF0\x9F\x8D\x8C,banana
-1f44e,0.442,0.465,0.137,0.471,👎,1F44E,\xF0\x9F\x91\x8E,thumbs down sign
-1f481,0.361,0.099,0.197,0.112,💁,1F481,\xF0\x9F\x92\x81,information desk person
-2198,0.23,0.242,0.103,0.175,↘,2198,\xE2\x86\x98,south east arrow
-1f492,0.092,0.139,0.631,0.252,💒,1F492,\xF0\x9F\x92\x92,wedding
-1f4b0,0.185,0.173,0.143,0.177,💰,1F4B0,\xF0\x9F\x92\xB0,money bag
-1f4d2,0.115,0.17,0.256,0.182,📒,1F4D2,\xF0\x9F\x93\x92,ledger
-1f320,0.176,0.16,0.377,0.2,🌠,1F320,\xF0\x9F\x8C\xA0,shooting star
-1f331,0.223,0.289,0.503,0.169,🌱,1F331,\xF0\x9F\x8C\xB1,seedling
-26c4,0.119,0.203,0.128,0.278,⛄,26C4,\xE2\x9B\x84,snowman without snow
-1f44c,0.153,0.21,0.206,0.16,👌,1F44C,\xF0\x9F\x91\x8C,ok hand sign
-1f46b,0.075,0.096,0.266,0.131,👫,1F46B,\xF0\x9F\x91\xAB,man and woman holding hands
-303d,0.203,0.123,0.201,0.305,〽,303D,\xE3\x80\xBD,part alternation mark
-1f50e,0.177,0.253,0.244,0.123,🔎,1F50E,\xF0\x9F\x94\x8E,right-pointing magnifying glass
-1f534,0.244,0.22,0.112,0.279,🔴,1F534,\xF0\x9F\x94\xB4,large red circle
-1f346,0.353,0.234,0.178,0.165,🍆,1F346,\xF0\x9F\x8D\x86,aubergine
-1f367,0.213,0.168,0.152,0.096,🍧,1F367,\xF0\x9F\x8D\xA7,shaved ice
-1f3ae,0.138,0.202,0.145,0.25,🎮,1F3AE,\xF0\x9F\x8E\xAE,video game
-1f4ac,0.233,0.302,0.227,0.214,💬,1F4AC,\xF0\x9F\x92\xAC,speech balloon
-1f47d,0.15,0.231,0.155,0.152,👽,1F47D,\xF0\x9F\x91\xBD,extraterrestrial alien
-1f4db,0.269,0.25,0.147,0.201,📛,1F4DB,\xF0\x9F\x93\x9B,name badge
-1f33e,0.188,0.259,0.383,0.215,🌾,1F33E,\xF0\x9F\x8C\xBE,ear of rice
-1f393,0.162,0.103,0.392,0.126,🎓,1F393,\xF0\x9F\x8E\x93,graduation cap
-1f4e5,0.205,0.126,0.14,0.213,📥,1F4E5,\xF0\x9F\x93\xA5,inbox tray
-1f616,0.392,0.531,0.172,0.433,😖,1F616,\xF0\x9F\x98\x96,confounded face
-1f4e2,0.271,0.199,0.15,0.216,📢,1F4E2,\xF0\x9F\x93\xA2,public address loudspeaker
-1f3ea,0.191,0.178,0.176,0.176,🏪,1F3EA,\xF0\x9F\x8F\xAA,convenience store
-1f426,0.22,0.243,0.213,0.142,🐦,1F426,\xF0\x9F\x90\xA6,bird
-1f45d,0.123,0.17,0.253,0.31,👝,1F45D,\xF0\x9F\x91\x9D,pouch
-1f4af,0.254,0.147,0.145,0.123,💯,1F4AF,\xF0\x9F\x92\xAF,hundred points symbol
-1f4c6,0.139,0.267,0.095,0.299,📆,1F4C6,\xF0\x9F\x93\x86,tear-off calendar
-1f4eb,0.191,0.108,0.097,0.136,📫,1F4EB,\xF0\x9F\x93\xAB,closed mailbox with raised flag
-2600,0.11,0.251,0.267,0.18,☀,2600,\xE2\x98\x80,black sun with rays
-1f339,0.129,0.161,0.334,0.199,🌹,1F339,\xF0\x9F\x8C\xB9,rose
-1f35e,0.142,0.205,0.181,0.156,🍞,1F35E,\xF0\x9F\x8D\x9E,bread
-1f3e8,0.075,0.246,0.196,0.184,🏨,1F3E8,\xF0\x9F\x8F\xA8,hotel
-1f484,0.276,0.168,0.502,0.141,💄,1F484,\xF0\x9F\x92\x84,lipstick
-1f607,0.108,0.092,0.28,0.123,😇,1F607,\xF0\x9F\x98\x87,smiling face with halo
-1f60f,0.258,0.041,0.096,0.146,😏,1F60F,\xF0\x9F\x98\x8F,smirking face
-1f631,0.292,0.263,0.133,0.21,😱,1F631,\xF0\x9F\x98\xB1,face screaming in fear
-1f645,0.288,0.288,0.11,0.296,🙅,1F645,\xF0\x9F\x99\x85,face with no good gesture
-26f2,0.101,0.229,0.276,0.292,⛲,26F2,\xE2\x9B\xB2,fountain
-1f4ba,0.155,0.24,0.067,0.137,💺,1F4BA,\xF0\x9F\x92\xBA,seat
-25c0,0.256,0.262,0.114,0.296,◀,25C0,\xE2\x97\x80,black left-pointing triangle
-2665,0.165,0.123,0.336,0.193,♥,2665,\xE2\x99\xA5,black heart suit
-1f531,0.228,0.144,0.219,0.257,🔱,1F531,\xF0\x9F\x94\xB1,trident emblem
-1f554,0.126,0.335,0.21,0.264,🕔,1F554,\xF0\x9F\x95\x94,clock face five oclock
-1f612,0.418,0.297,0.119,0.333,😒,1F612,\xF0\x9F\x98\x92,unamused face
-1f490,0.09,0.251,0.326,0.181,💐,1F490,\xF0\x9F\x92\x90,bouquet
-1f4c4,0.196,0.31,0.3,0.29,📄,1F4C4,\xF0\x9F\x93\x84,page facing up
-1f4d3,0.128,0.144,0.281,0.174,📓,1F4D3,\xF0\x9F\x93\x93,notebook
-1f532,0.361,0.212,0.235,0.228,🔲,1F532,\xF0\x9F\x94\xB2,black square button
-1f609,0.098,0.053,0.129,0.171,😉,1F609,\xF0\x9F\x98\x89,winking face
-1f4a1,0.237,0.199,0.306,0.225,💡,1F4A1,\xF0\x9F\x92\xA1,electric light bulb
-1f4bd,0.194,0.187,0.328,0.229,💽,1F4BD,\xF0\x9F\x92\xBD,minidisc
-1f61b,0.242,0.19,0.142,0.14,😛,1F61B,\xF0\x9F\x98\x9B,face with stuck-out tongue
-1f3e5,0.128,0.376,0.305,0.184,🏥,1F3E5,\xF0\x9F\x8F\xA5,hospital
-1f4a4,0.142,0.213,0.411,0.289,💤,1F4A4,\xF0\x9F\x92\xA4,sleeping symbol
-1f527,0.25,0.313,0.337,0.137,🔧,1F527,\xF0\x9F\x94\xA7,wrench
-1f649,0.303,0.277,0.094,0.283,🙉,1F649,\xF0\x9F\x99\x89,hear-no-evil monkey
-1f3aa,0.113,0.196,0.111,0.204,🎪,1F3AA,\xF0\x9F\x8E\xAA,circus tent
-1f435,0.194,0.327,0.079,0.061,🐵,1F435,\xF0\x9F\x90\xB5,monkey face
-1f516,0.257,0.174,0.182,0.289,🔖,1F516,\xF0\x9F\x94\x96,bookmark
-1f63c,0.25,0.083,0.078,0.121,😼,1F63C,\xF0\x9F\x98\xBC,cat face with wry smile
-1f345,0.284,0.22,0.294,0.236,🍅,1F345,\xF0\x9F\x8D\x85,tomato
-1f4d8,0.156,0.191,0.149,0.193,📘,1F4D8,\xF0\x9F\x93\x98,blue book
-1f3a7,0.167,0.148,0.266,0.316,🎧,1F3A7,\xF0\x9F\x8E\xA7,headphone
-1f451,0.333,0.118,0.268,0.127,👑,1F451,\xF0\x9F\x91\x91,crown
-1f4ab,0.233,0.147,0.359,0.134,💫,1F4AB,\xF0\x9F\x92\xAB,dizzy symbol
-1f555,0.143,0.393,0.169,0.326,🕕,1F555,\xF0\x9F\x95\x95,clock face six oclock
-1f632,0.348,0.411,0.138,0.327,😲,1F632,\xF0\x9F\x98\xB2,astonished face
-1f606,0.165,0.216,0.119,0.188,😆,1F606,\xF0\x9F\x98\x86,smiling face with open mouth and tightly-closed eyes
-26aa,0.22,0.164,0.121,0.217,⚪,26AA,\xE2\x9A\xAA,medium white circle
-1f475,0.235,0.299,0.326,0.279,👵,1F475,\xF0\x9F\x91\xB5,older woman
-1f4bf,0.22,0.165,0.332,0.261,💿,1F4BF,\xF0\x9F\x92\xBF,optical disc
-1f50d,0.222,0.276,0.203,0.131,🔍,1F50D,\xF0\x9F\x94\x8D,left-pointing magnifying glass
-2650,0.17,0.217,0.21,0.22,♐,2650,\xE2\x99\x90,sagittarius
-26fd,0.375,0.161,0.138,0.185,⛽,26FD,\xE2\x9B\xBD,fuel pump
-1f33d,0.141,0.156,0.182,0.167,🌽,1F33D,\xF0\x9F\x8C\xBD,ear of maize
-1f372,0.18,0.149,0.177,0.193,🍲,1F372,\xF0\x9F\x8D\xB2,pot of food
-1f551,0.122,0.35,0.191,0.298,🕑,1F551,\xF0\x9F\x95\x91,clock face two oclock
-2653,0.169,0.176,0.233,0.239,♓,2653,\xE2\x99\x93,pisces
-26bd,0.147,0.332,0.115,0.411,⚽,26BD,\xE2\x9A\xBD,soccer ball
-1f385,0.131,0.226,0.254,0.166,🎅,1F385,\xF0\x9F\x8E\x85,father christmas
-23ea,0.301,0.233,0.189,0.282,⏪,23EA,\xE2\x8F\xAA,black left-pointing double triangle
-1f3bb,0.176,0.139,0.298,0.224,🎻,1F3BB,\xF0\x9F\x8E\xBB,violin
-1f493,0.171,0.078,0.323,0.157,💓,1F493,\xF0\x9F\x92\x93,beating heart
-1f600,0.163,0.173,0.171,0.186,😀,1F600,\xF0\x9F\x98\x80,grinning face
-1f467,0.227,0.16,0.214,0.146,👧,1F467,\xF0\x9F\x91\xA7,girl
-1f4cc,0.299,0.263,0.136,0.177,📌,1F4CC,\xF0\x9F\x93\x8C,pushpin
-1f627,0.309,0.485,0.14,0.369,😧,1F627,\xF0\x9F\x98\xA7,anguished face
-1f633,0.281,0.263,0.102,0.231,😳,1F633,\xF0\x9F\x98\xB3,flushed face
-1f64d,0.346,0.374,0.145,0.421,🙍,1F64D,\xF0\x9F\x99\x8D,person frowning
-263a,0.095,0.13,0.245,0.176,☺,263A,\xE2\x98\xBA,white smiling face
-1f3bf,0.103,0.077,0.051,0.192,🎿,1F3BF,\xF0\x9F\x8E\xBF,ski and ski boot
-1f44f,0.219,0.256,0.189,0.214,👏,1F44F,\xF0\x9F\x91\x8F,clapping hands sign
-1f48b,0.272,0.108,0.273,0.167,💋,1F48B,\xF0\x9F\x92\x8B,kiss mark
-1f536,0.33,0.211,0.223,0.335,🔶,1F536,\xF0\x9F\x94\xB6,large orange diamond
-1f62f,0.314,0.355,0.137,0.353,😯,1F62F,\xF0\x9F\x98\xAF,hushed face
-2614,0.184,0.242,0.254,0.37,☔,2614,\xE2\x98\x94,umbrella with rain drops
-1f33f,0.152,0.282,0.509,0.138,🌿,1F33F,\xF0\x9F\x8C\xBF,herb
-1f482,0.19,0.23,0.081,0.176,💂,1F482,\xF0\x9F\x92\x82,guardsman
-1f3e9,0.041,0.141,0.229,0.155,🏩,1F3E9,\xF0\x9F\x8F\xA9,love hotel
-1f47e,0.128,0.228,0.087,0.197,👾,1F47E,\xF0\x9F\x91\xBE,alien monster
-1f4c1,0.151,0.217,0.158,0.205,📁,1F4C1,\xF0\x9F\x93\x81,file folder
-1f4e3,0.239,0.214,0.167,0.22,📣,1F4E3,\xF0\x9F\x93\xA3,cheering megaphone
-1f41b,0.268,0.27,0.174,0.102,🐛,1F41B,\xF0\x9F\x90\x9B,bug
-1f421,0.21,0.214,0.155,0.138,🐡,1F421,\xF0\x9F\x90\xA1,blowfish
-1f43b,0.205,0.256,0.129,0.196,🐻,1F43B,\xF0\x9F\x90\xBB,bear face
-1f51f,0.217,0.109,0.086,0.173,🔟,1F51F,\xF0\x9F\x94\x9F,keycap ten
-1f61a,0.179,0.08,0.217,0.168,😚,1F61A,\xF0\x9F\x98\x9A,kissing face with closed eyes
-1f425,0.135,0.147,0.152,0.151,🐥,1F425,\xF0\x9F\x90\xA5,front-facing baby chick
-1f488,0.135,0.163,0.174,0.18,💈,1F488,\xF0\x9F\x92\x88,barber pole
-1f448,0.199,0.262,0.226,0.251,👈,1F448,\xF0\x9F\x91\x88,white left pointing backhand index
-1f522,0.174,0.186,0.219,0.139,🔢,1F522,\xF0\x9F\x94\xA2,input symbol for numbers
-1f61f,0.349,0.397,0.097,0.348,😟,1F61F,\xF0\x9F\x98\x9F,worried face
-1f301,0.162,0.301,0.317,0.283,🌁,1F301,\xF0\x9F\x8C\x81,foggy
-1f422,0.108,0.251,0.239,0.08,🐢,1F422,\xF0\x9F\x90\xA2,turtle
-1f5fc,0.115,0.092,0.168,0.24,🗼,1F5FC,\xF0\x9F\x97\xBC,tokyo tower
-1f4b8,0.123,0.096,0.166,0.121,💸,1F4B8,\xF0\x9F\x92\xB8,money with wings
-1f4e0,0.241,0.352,0.167,0.226,📠,1F4E0,\xF0\x9F\x93\xA0,fax machine
-26be,0.143,0.242,0.099,0.369,⚾,26BE,\xE2\x9A\xBE,baseball
-1f36f,0.177,0.181,0.264,0.143,🍯,1F36F,\xF0\x9F\x8D\xAF,honey pot
-1f4b3,0.144,0.089,0.241,0.213,💳,1F4B3,\xF0\x9F\x92\xB3,credit card
-1f4f9,0.301,0.29,0.235,0.202,📹,1F4F9,\xF0\x9F\x93\xB9,video camera
-1f34f,0.16,0.188,0.405,0.102,🍏,1F34F,\xF0\x9F\x8D\x8F,green apple
-1f464,0.294,0.347,0.186,0.279,👤,1F464,\xF0\x9F\x91\xA4,bust in silhouette
-1f483,0.112,0.116,0.138,0.139,💃,1F483,\xF0\x9F\x92\x83,dancer
-1f4df,0.144,0.191,0.229,0.259,📟,1F4DF,\xF0\x9F\x93\x9F,pager
-1f630,0.343,0.439,0.134,0.352,😰,1F630,\xF0\x9F\x98\xB0,face with open mouth and cold sweat
-1f379,0.144,0.178,0.159,0.119,🍹,1F379,\xF0\x9F\x8D\xB9,tropical drink
-1f476,0.266,0.201,0.457,0.156,👶,1F476,\xF0\x9F\x91\xB6,baby
-267f,0.18,0.179,0.093,0.264,♿,267F,\xE2\x99\xBF,wheelchair symbol
-26ce,0.213,0.17,0.233,0.228,⛎,26CE,\xE2\x9B\x8E,ophiuchus
-1f418,0.224,0.234,0.163,0.156,🐘,1F418,\xF0\x9F\x90\x98,elephant
-1f4b4,0.217,0.182,0.171,0.302,💴,1F4B4,\xF0\x9F\x92\xB4,banknote with yen sign
-26a0,0.264,0.293,0.107,0.212,⚠,26A0,\xE2\x9A\xA0,warning sign
-1f370,0.126,0.196,0.166,0.089,🍰,1F370,\xF0\x9F\x8D\xB0,shortcake
-1f432,0.198,0.298,0.205,0.157,🐲,1F432,\xF0\x9F\x90\xB2,dragon face
-1f51a,0.285,0.32,0.232,0.403,🔚,1F51A,\xF0\x9F\x94\x9A,end with leftwards arrow above
-1f601,0.091,0.251,0.123,0.079,😁,1F601,\xF0\x9F\x98\x81,grinning face with smiling eyes
-1f311,0.239,0.221,0.258,0.291,🌑,1F311,\xF0\x9F\x8C\x91,new moon symbol
-1f45e,0.276,0.174,0.11,0.173,👞,1F45E,\xF0\x9F\x91\x9E,mans shoe
-1f470,0.193,0.268,0.502,0.185,👰,1F470,\xF0\x9F\x91\xB0,bride with veil
-1f480,0.362,0.267,0.056,0.218,💀,1F480,\xF0\x9F\x92\x80,skull
-1f48a,0.195,0.253,0.182,0.203,💊,1F48A,\xF0\x9F\x92\x8A,pill
-1f4e6,0.126,0.186,0.214,0.143,📦,1F4E6,\xF0\x9F\x93\xA6,package
-1f3f0,0.069,0.202,0.132,0.222,🏰,1F3F0,\xF0\x9F\x8F\xB0,european castle
-1f4d1,0.137,0.228,0.301,0.23,📑,1F4D1,\xF0\x9F\x93\x91,bookmark tabs
-1f60b,0.128,0.107,0.169,0.091,😋,1F60B,\xF0\x9F\x98\x8B,face savouring delicious food
-1f461,0.246,0.236,0.208,0.23,👡,1F461,\xF0\x9F\x91\xA1,womans sandal
-1f468,0.243,0.131,0.291,0.098,👨,1F468,\xF0\x9F\x91\xA8,man
-1f47b,0.147,0.201,0.017,0.108,👻,1F47B,\xF0\x9F\x91\xBB,ghost
-1f4de,0.179,0.167,0.101,0.311,📞,1F4DE,\xF0\x9F\x93\x9E,telephone receiver
-2663,0.188,0.228,0.128,0.248,♣,2663,\xE2\x99\xA3,black club suit
-3030,0.235,0.287,0.253,0.268,〰,3030,\xE3\x80\xB0,wavy dash
-1f3b3,0.074,0.165,0.073,0.275,🎳,1F3B3,\xF0\x9F\x8E\xB3,bowling
-1f44a,0.236,0.253,0.13,0.273,👊,1F44A,\xF0\x9F\x91\x8A,fisted hand sign
-1f485,0.418,0.121,0.314,0.099,💅,1F485,\xF0\x9F\x92\x85,nail polish
-1f558,0.15,0.367,0.197,0.331,🕘,1F558,\xF0\x9F\x95\x98,clock face nine oclock
-1f359,0.103,0.254,0.092,0.262,🍙,1F359,\xF0\x9F\x8D\x99,rice ball
-1f4dd,0.147,0.235,0.269,0.203,📝,1F4DD,\xF0\x9F\x93\x9D,memo
-1f62e,0.271,0.29,0.16,0.295,😮,1F62E,\xF0\x9F\x98\xAE,face with open mouth
-203c,0.157,0.125,0.063,0.086,‼,203C,\xE2\x80\xBC,double exclamation mark
-23eb,0.243,0.236,0.251,0.256,⏫,23EB,\xE2\x8F\xAB,black up-pointing double triangle
-2b50,0.237,0.175,0.29,0.16,⭐,2B50,\xE2\xAD\x90,white medium star
-1f4a8,0.363,0.18,0.102,0.164,💨,1F4A8,\xF0\x9F\x92\xA8,dash symbol
-264d,0.17,0.109,0.264,0.195,♍,264D,\xE2\x99\x8D,virgo
-1f342,0.133,0.167,0.286,0.168,🍂,1F342,\xF0\x9F\x8D\x82,fallen leaf
-1f3a9,0.172,0.214,0.112,0.207,🎩,1F3A9,\xF0\x9F\x8E\xA9,top hat
-1f44d,0.202,0.265,0.264,0.194,👍,1F44D,\xF0\x9F\x91\x8D,thumbs up sign
-1f469,0.241,0.215,0.29,0.142,👩,1F469,\xF0\x9F\x91\xA9,woman
-1f495,0.172,0.088,0.383,0.142,💕,1F495,\xF0\x9F\x92\x95,two hearts
-1f4b5,0.21,0.19,0.149,0.192,💵,1F4B5,\xF0\x9F\x92\xB5,banknote with dollar sign
-1f4f7,0.198,0.296,0.287,0.197,📷,1F4F7,\xF0\x9F\x93\xB7,camera
-1f538,0.258,0.162,0.234,0.271,🔸,1F538,\xF0\x9F\x94\xB8,small orange diamond
-1f5fe,0.122,0.213,0.241,0.152,🗾,1F5FE,\xF0\x9F\x97\xBE,silhouette of japan
-1f417,0.187,0.269,0.122,0.158,🐗,1F417,\xF0\x9F\x90\x97,boar
-1f466,0.171,0.155,0.225,0.159,👦,1F466,\xF0\x9F\x91\xA6,boy
-1f4d6,0.196,0.207,0.259,0.243,📖,1F4D6,\xF0\x9F\x93\x96,open book
-1f503,0.229,0.234,0.23,0.262,🔃,1F503,\xF0\x9F\x94\x83,clockwise downwards and upwards open circle arrows
-1f4d7,0.154,0.24,0.391,0.107,📗,1F4D7,\xF0\x9F\x93\x97,green book
-1f51c,0.123,0.179,0.191,0.302,🔜,1F51C,\xF0\x9F\x94\x9C,soon with rightwards arrow above
-1f373,0.078,0.221,0.139,0.118,🍳,1F373,\xF0\x9F\x8D\xB3,cooking
-1f3b0,0.085,0.169,0.067,0.23,🎰,1F3B0,\xF0\x9F\x8E\xB0,slot machine
-1f513,0.207,0.206,0.17,0.109,🔓,1F513,\xF0\x9F\x94\x93,open lock
-1f343,0.231,0.194,0.382,0.139,🍃,1F343,\xF0\x9F\x8D\x83,leaf fluttering in wind
-1f4ea,0.184,0.19,0.109,0.181,📪,1F4EA,\xF0\x9F\x93\xAA,closed mailbox with lowered flag
-1f62a,0.267,0.375,0.205,0.367,😪,1F62A,\xF0\x9F\x98\xAA,sleepy face
-1f308,0.183,0.207,0.317,0.261,🌈,1F308,\xF0\x9F\x8C\x88,rainbow
-1f3a4,0.121,0.081,0.237,0.29,🎤,1F3A4,\xF0\x9F\x8E\xA4,microphone
-1f3bc,0.149,0.09,0.371,0.315,🎼,1F3BC,\xF0\x9F\x8E\xBC,musical score
-1f533,0.351,0.226,0.225,0.167,🔳,1F533,\xF0\x9F\x94\xB3,white square button
-1f620,0.493,0.375,0.074,0.443,😠,1F620,\xF0\x9F\x98\xA0,angry face
-2652,0.178,0.306,0.232,0.228,♒,2652,\xE2\x99\x92,aquarius
-1f442,0.299,0.33,0.316,0.357,👂,1F442,\xF0\x9F\x91\x82,ear
-1f4c0,0.184,0.143,0.319,0.307,📀,1F4C0,\xF0\x9F\x93\x80,dvd
-2197,0.199,0.224,0.159,0.243,↗,2197,\xE2\x86\x97,north east arrow
-2934,0.262,0.255,0.222,0.229,⤴,2934,\xE2\xA4\xB4,arrow pointing rightwards then curving upwards
-1f355,0.142,0.109,0.149,0.11,🍕,1F355,\xF0\x9F\x8D\x95,slice of pizza
-1f4e8,0.24,0.196,0.168,0.248,📨,1F4E8,\xF0\x9F\x93\xA8,incoming envelope
-2615,0.142,0.2,0.317,0.106,☕,2615,\xE2\x98\x95,hot beverage
-1f429,0.186,0.216,0.168,0.152,🐩,1F429,\xF0\x9F\x90\xA9,poodle
-1f457,0.183,0.16,0.292,0.242,👗,1F457,\xF0\x9F\x91\x97,dress
-1f471,0.257,0.23,0.226,0.166,👱,1F471,\xF0\x9F\x91\xB1,person with blond hair
-1f48c,0.13,0.15,0.331,0.142,💌,1F48C,\xF0\x9F\x92\x8C,love letter
-1f4a3,0.22,0.196,0.163,0.205,💣,1F4A3,\xF0\x9F\x92\xA3,bomb
-1f3af,0.177,0.213,0.098,0.09,🎯,1F3AF,\xF0\x9F\x8E\xAF,direct hit
-1f4a2,0.316,0.208,0.036,0.289,💢,1F4A2,\xF0\x9F\x92\xA2,anger symbol
-1f50a,0.259,0.187,0.154,0.348,🔊,1F50A,\xF0\x9F\x94\x8A,speaker with three sound waves
-1f539,0.23,0.181,0.246,0.232,🔹,1F539,\xF0\x9F\x94\xB9,small blue diamond
-1f638,0.12,0.161,0.176,0.201,😸,1F638,\xF0\x9F\x98\xB8,grinning cat face with smiling eyes
-1f382,0.055,0.185,0.317,0.122,🎂,1F382,\xF0\x9F\x8E\x82,birthday cake
-1f3a0,0.119,0.128,0.125,0.173,🎠,1F3A0,\xF0\x9F\x8E\xA0,carousel horse
-1f3a6,0.273,0.207,0.206,0.218,🎦,1F3A6,\xF0\x9F\x8E\xA6,cinema
-1f46f,0.241,0.11,0.052,0.18,👯,1F46F,\xF0\x9F\x91\xAF,woman with bunny ears
-1f49e,0.2,0.097,0.427,0.142,💞,1F49E,\xF0\x9F\x92\x9E,revolving hearts
-1f35d,0.056,0.149,0.149,0.159,🍝,1F35D,\xF0\x9F\x8D\x9D,spaghetti
-1f35f,0.164,0.154,0.14,0.177,🍟,1F35F,\xF0\x9F\x8D\x9F,french fries
-1f366,0.156,0.181,0.141,0.09,🍦,1F366,\xF0\x9F\x8D\xA6,soft ice cream
-1f3e3,0.19,0.309,0.226,0.249,🏣,1F3E3,\xF0\x9F\x8F\xA3,japanese post office
-1f443,0.383,0.272,0.186,0.52,👃,1F443,\xF0\x9F\x91\x83,nose
-1f4d5,0.199,0.162,0.256,0.16,📕,1F4D5,\xF0\x9F\x93\x95,closed book
-1f3c0,0.171,0.209,0.118,0.398,🏀,1F3C0,\xF0\x9F\x8F\x80,basketball and hoop
-1f43d,0.212,0.188,0.167,0.392,🐽,1F43D,\xF0\x9F\x90\xBD,pig nose
-264f,0.185,0.218,0.302,0.274,♏,264F,\xE2\x99\x8F,scorpius
-26ab,0.335,0.212,0.176,0.3,⚫,26AB,\xE2\x9A\xAB,medium black circle
-2b05,0.282,0.221,0.126,0.199,⬅,2B05,\xE2\xAC\x85,leftwards black arrow
-1f478,0.398,0.198,0.337,0.175,👸,1F478,\xF0\x9F\x91\xB8,princess
-1f511,0.165,0.157,0.239,0.116,🔑,1F511,\xF0\x9F\x94\x91,key
-1f341,0.279,0.172,0.208,0.147,🍁,1F341,\xF0\x9F\x8D\x81,maple leaf
-1f3b9,0.132,0.108,0.34,0.265,🎹,1F3B9,\xF0\x9F\x8E\xB9,musical keyboard
-1f3eb,0.15,0.268,0.296,0.162,🏫,1F3EB,\xF0\x9F\x8F\xAB,school
-1f4f0,0.222,0.338,0.27,0.246,📰,1F4F0,\xF0\x9F\x93\xB0,newspaper
-21a9,0.181,0.292,0.179,0.208,↩,21A9,\xE2\x86\xA9,leftwards arrow with hook
-1f36b,0.147,0.117,0.152,0.108,🍫,1F36B,\xF0\x9F\x8D\xAB,chocolate bar
-1f36c,0.192,0.184,0.188,0.12,🍬,1F36C,\xF0\x9F\x8D\xAC,candy
-264c,0.241,0.221,0.212,0.241,♌,264C,\xE2\x99\x8C,leo
-3297,0.158,0.162,0.255,0.199,㊗,3297,\xE3\x8A\x97,circled ideograph congratulation
-1f314,0.181,0.245,0.327,0.221,🌔,1F314,\xF0\x9F\x8C\x94,waxing gibbous moon symbol
-1f427,0.151,0.188,0.134,0.141,🐧,1F427,\xF0\x9F\x90\xA7,penguin
-1f42e,0.142,0.222,0.129,0.185,🐮,1F42E,\xF0\x9F\x90\xAE,cow face
-1f42f,0.13,0.392,0.074,0.259,🐯,1F42F,\xF0\x9F\x90\xAF,tiger face
-1f305,0.107,0.292,0.4,0.158,🌅,1F305,\xF0\x9F\x8C\x85,sunrise
-1f3a8,0.136,0.118,0.442,0.058,🎨,1F3A8,\xF0\x9F\x8E\xA8,artist palette
-1f50b,0.082,0.179,0.196,0.111,🔋,1F50B,\xF0\x9F\x94\x8B,battery
-1f624,0.399,0.21,0.043,0.22,😤,1F624,\xF0\x9F\x98\xA4,face with look of triumph
-25fb,0.395,0.255,0.169,0.231,◻,25FB,\xE2\x97\xBB,white medium square
-26f3,0.134,0.207,0.222,0.175,⛳,26F3,\xE2\x9B\xB3,flag in hole
-1f3c3,0.162,0.297,0.062,0.2,🏃,1F3C3,\xF0\x9F\x8F\x83,runner
-23ec,0.287,0.247,0.22,0.224,⏬,23EC,\xE2\x8F\xAC,black down-pointing double triangle
-1f347,0.176,0.155,0.179,0.176,🍇,1F347,\xF0\x9F\x8D\x87,grapes
-1f428,0.119,0.217,0.116,0.109,🐨,1F428,\xF0\x9F\x90\xA8,koala
-1f4ce,0.289,0.219,0.194,0.231,📎,1F4CE,\xF0\x9F\x93\x8E,paperclip
-1f4e4,0.204,0.229,0.197,0.194,📤,1F4E4,\xF0\x9F\x93\xA4,outbox tray
-1f462,0.221,0.095,0.127,0.239,👢,1F462,\xF0\x9F\x91\xA2,womans boots
-1f489,0.21,0.245,0.142,0.124,💉,1F489,\xF0\x9F\x92\x89,syringe
-1f52f,0.249,0.161,0.343,0.282,🔯,1F52F,\xF0\x9F\x94\xAF,six pointed star with middle dot
-1f30f,0.163,0.242,0.261,0.188,🌏,1F30F,\xF0\x9F\x8C\x8F,earth globe asia-australia
-1f348,0.282,0.313,0.262,0.077,🍈,1F348,\xF0\x9F\x8D\x88,melon
-1f353,0.153,0.198,0.197,0.104,🍓,1F353,\xF0\x9F\x8D\x93,strawberry
-1f4a7,0.199,0.223,0.203,0.248,💧,1F4A7,\xF0\x9F\x92\xA7,droplet
-1f639,0.438,0.178,0.116,0.282,😹,1F639,\xF0\x9F\x98\xB9,cat face with tears of joy
-1f319,0.098,0.137,0.287,0.218,🌙,1F319,\xF0\x9F\x8C\x99,crescent moon
-1f3a1,0.092,0.168,0.141,0.156,🎡,1F3A1,\xF0\x9F\x8E\xA1,ferris wheel
-1f4e7,0.26,0.225,0.21,0.24,📧,1F4E7,\xF0\x9F\x93\xA7,e-mail symbol
-25fe,0.392,0.211,0.186,0.255,◾,25FE,\xE2\x97\xBE,black medium small square
-1f446,0.259,0.142,0.46,0.299,👆,1F446,\xF0\x9F\x91\x86,white up pointing backhand index
-1f53d,0.195,0.258,0.182,0.225,🔽,1F53D,\xF0\x9F\x94\xBD,down-pointing small red triangle
-1f55b,0.186,0.347,0.165,0.349,🕛,1F55B,\xF0\x9F\x95\x9B,clock face twelve oclock
-1f458,0.144,0.196,0.238,0.222,👘,1F458,\xF0\x9F\x91\x98,kimono
-1f494,0.244,0.34,0.199,0.332,💔,1F494,\xF0\x9F\x92\x94,broken heart
-1f648,0.183,0.27,0.089,0.135,🙈,1F648,\xF0\x9F\x99\x88,see-no-evil monkey
-1f335,0.087,0.245,0.192,0.034,🌵,1F335,\xF0\x9F\x8C\xB5,cactus
-1f48e,0.173,0.073,0.543,0.108,💎,1F48E,\xF0\x9F\x92\x8E,gem stone
-1f49c,0.183,0.131,0.341,0.207,💜,1F49C,\xF0\x9F\x92\x9C,purple heart
-1f4f4,0.176,0.247,0.146,0.245,📴,1F4F4,\xF0\x9F\x93\xB4,mobile phone off
-2195,0.274,0.277,0.207,0.276,↕,2195,\xE2\x86\x95,up down arrow
-1f364,0.138,0.15,0.191,0.165,🍤,1F364,\xF0\x9F\x8D\xA4,fried shrimp
-1f514,0.27,0.219,0.242,0.427,🔔,1F514,\xF0\x9F\x94\x94,bell
-1f556,0.15,0.35,0.089,0.33,🕖,1F556,\xF0\x9F\x95\x96,clock face seven oclock
-1f608,0.213,0.055,0.081,0.193,😈,1F608,\xF0\x9F\x98\x88,smiling face with horns
-2196,0.193,0.214,0.186,0.124,↖,2196,\xE2\x86\x96,north west arrow
-1f0cf,0.233,0.286,0.051,0.177,🃏,1F0CF,\xF0\x9F\x83\x8F,playing card black joker
-1f42c,0.107,0.184,0.117,0.204,🐬,1F42C,\xF0\x9F\x90\xAC,dolphin
-1f455,0.219,0.078,0.116,0.226,👕,1F455,\xF0\x9F\x91\x95,t-shirt
-1f45b,0.105,0.196,0.302,0.202,👛,1F45B,\xF0\x9F\x91\x9B,purse
-1f474,0.27,0.263,0.276,0.215,👴,1F474,\xF0\x9F\x91\xB4,older man
-1f4c5,0.174,0.21,0.131,0.225,📅,1F4C5,\xF0\x9F\x93\x85,calendar
-1f626,0.37,0.423,0.128,0.355,😦,1F626,\xF0\x9F\x98\xA6,frowning face with open mouth
-23f0,0.176,0.28,0.154,0.227,⏰,23F0,\xE2\x8F\xB0,alarm clock
-1f377,0.046,0.124,0.218,0.059,🍷,1F377,\xF0\x9F\x8D\xB7,wine glass
-1f419,0.098,0.234,0.199,0.086,🐙,1F419,\xF0\x9F\x90\x99,octopus
-1f48d,0.171,0.073,0.46,0.173,💍,1F48D,\xF0\x9F\x92\x8D,ring
-1f3c1,0.221,0.184,0.125,0.263,🏁,1F3C1,\xF0\x9F\x8F\x81,chequered flag
-1f491,0.165,0.113,0.409,0.25,💑,1F491,\xF0\x9F\x92\x91,couple with heart
-1f60c,0.127,0.182,0.254,0.137,😌,1F60C,\xF0\x9F\x98\x8C,relieved face
-1f62c,0.161,0.328,0.1,0.211,😬,1F62C,\xF0\x9F\x98\xAC,grimacing face
-1f36d,0.092,0.163,0.158,0.055,🍭,1F36D,\xF0\x9F\x8D\xAD,lollipop
-1f374,0.053,0.078,0.126,0.285,🍴,1F374,\xF0\x9F\x8D\xB4,fork and knife
-1f4a9,0.35,0.342,0.151,0.446,💩,1F4A9,\xF0\x9F\x92\xA9,pile of poo
-1f537,0.249,0.053,0.236,0.278,🔷,1F537,\xF0\x9F\x94\xB7,large blue diamond
-1f5fd,0.09,0.226,0.113,0.186,🗽,1F5FD,\xF0\x9F\x97\xBD,statue of liberty
-25fc,0.445,0.245,0.21,0.264,◼,25FC,\xE2\x97\xBC,black medium square
-2651,0.196,0.172,0.3,0.179,♑,2651,\xE2\x99\x91,capricorn
-1f3b1,0.257,0.09,0.059,0.204,🎱,1F3B1,\xF0\x9F\x8E\xB1,billiards
-26d4,0.312,0.445,0.136,0.344,⛔,26D4,\xE2\x9B\x94,no entry
-1f30a,0.106,0.29,0.123,0.222,🌊,1F30A,\xF0\x9F\x8C\x8A,water wave
-1f40e,0.281,0.172,0.148,0.212,🐎,1F40E,\xF0\x9F\x90\x8E,horse
-1f411,0.29,0.169,0.12,0.292,🐑,1F411,\xF0\x9F\x90\x91,sheep
-1f436,0.13,0.18,0.257,0.084,🐶,1F436,\xF0\x9F\x90\xB6,dog face
-1f51e,0.109,0.136,0.051,0.179,🔞,1F51E,\xF0\x9F\x94\x9E,no one under eighteen symbol
-2194,0.329,0.372,0.214,0.335,↔,2194,\xE2\x86\x94,left right arrow
-1f63b,0.304,0.1,0.319,0.145,😻,1F63B,\xF0\x9F\x98\xBB,smiling cat face with heart-shaped eyes
-1f3ac,0.213,0.196,0.237,0.162,🎬,1F3AC,\xF0\x9F\x8E\xAC,clapper board
-1f31b,0.11,0.103,0.32,0.227,🌛,1F31B,\xF0\x9F\x8C\x9B,first quarter moon with face
-1f376,0.145,0.255,0.282,0.145,🍶,1F376,\xF0\x9F\x8D\xB6,sake bottle and cup
-1f3b2,0.126,0.162,0.09,0.179,🎲,1F3B2,\xF0\x9F\x8E\xB2,game die
-1f64e,0.293,0.244,0.196,0.299,🙎,1F64E,\xF0\x9F\x99\x8E,person with pouting face
-1f304,0.103,0.28,0.392,0.205,🌄,1F304,\xF0\x9F\x8C\x84,sunrise over mountains
-1f34a,0.169,0.199,0.284,0.237,🍊,1F34A,\xF0\x9F\x8D\x8A,tangerine
-1f37a,0.157,0.12,0.167,0.097,🍺,1F37A,\xF0\x9F\x8D\xBA,beer mug
-1f433,0.16,0.184,0.09,0.159,🐳,1F433,\xF0\x9F\x90\xB3,spouting whale
-1f622,0.284,0.385,0.21,0.333,😢,1F622,\xF0\x9F\x98\xA2,crying face
-231b,0.205,0.305,0.25,0.266,⌛,231B,\xE2\x8C\x9B,hourglass
-1f3a5,0.142,0.178,0.233,0.158,🎥,1F3A5,\xF0\x9F\x8E\xA5,movie camera
-1f55a,0.123,0.282,0.119,0.316,🕚,1F55A,\xF0\x9F\x95\x9A,clock face eleven oclock
-1f309,0.079,0.151,0.24,0.247,🌉,1F309,\xF0\x9F\x8C\x89,bridge at night
-1f4bc,0.173,0.192,0.286,0.175,💼,1F4BC,\xF0\x9F\x92\xBC,briefcase
-1f3b6,0.149,0.131,0.326,0.31,🎶,1F3B6,\xF0\x9F\x8E\xB6,multiple musical notes
-1f4c2,0.213,0.263,0.171,0.276,📂,1F4C2,\xF0\x9F\x93\x82,open file folder
-1f521,0.193,0.191,0.173,0.129,🔡,1F521,\xF0\x9F\x94\xA1,input symbol for latin small letters
-1f338,0.122,0.197,0.31,0.13,🌸,1F338,\xF0\x9F\x8C\xB8,cherry blossom
-1f49d,0.106,0.172,0.417,0.144,💝,1F49D,\xF0\x9F\x92\x9D,heart with ribbon
-1f459,0.13,0.132,0.177,0.187,👙,1F459,\xF0\x9F\x91\x99,bikini
-1f529,0.181,0.276,0.175,0.178,🔩,1F529,\xF0\x9F\x94\xA9,nut and bolt
-1f535,0.203,0.241,0.117,0.336,🔵,1F535,\xF0\x9F\x94\xB5,large blue circle
-1f602,0.381,0.231,0.099,0.326,😂,1F602,\xF0\x9F\x98\x82,face with tears of joy
-1f610,0.415,0.309,0.149,0.322,😐,1F610,\xF0\x9F\x98\x90,neutral face
-1f41c,0.269,0.308,0.098,0.112,🐜,1F41C,\xF0\x9F\x90\x9C,ant
-1f4e9,0.251,0.088,0.063,0.199,📩,1F4E9,\xF0\x9F\x93\xA9,envelope with downwards arrow above
-1f63f,0.257,0.264,0.246,0.344,😿,1F63F,\xF0\x9F\x98\xBF,crying cat face
+Emoji,Twitter Image,Unicode,Description,Anger,Fear,Joy,Sadness
+🏄,1f3c4,1F3C4,surfer,0.12,0.195,0.088,0.222
+🔒,1f512,1F512,lock,0.146,0.141,0.196,0.212
+🔨,1f528,1F528,hammer,0.333,0.427,0.221,0.186
+😕,1f615,1F615,confused face,0.331,0.343,0.105,0.34
+⏩,23000000000,23000000000,black right-pointing double triangle,0.327,0.322,0.17,0.265
+🏢,1f3e2,1F3E2,office building,0.181,0.359,0.22,0.19
+📻,1f4fb,1F4FB,radio,0.187,0.222,0.316,0.361
+🎸,1f3b8,1F3B8,guitar,0.144,0.125,0.257,0.304
+🐷,1f437,1F437,pig face,0.179,0.214,0.165,0.337
+🐹,1f439,1F439,hamster face,0.215,0.196,0.305,0.194
+👮,1f46e,1F46E,police officer,0.34,0.493,0.161,0.27
+💚,1f49a,1F49A,green heart,0.126,0.159,0.373,0.19
+🔤,1f524,1F524,input symbol for latin letters,0.134,0.126,0.166,0.121
+😩,1f629,1F629,weary face,0.236,0.274,0.186,0.234
+♻,267b,267B,black universal recycling symbol,0.261,0.271,0.334,0.152
+🌕,1f315,1F315,full moon symbol,0.176,0.284,0.312,0.208
+🎃,1f383,1F383,jack-o-lantern,0.129,0.327,0.09,0.092
+🎐,1f390,1F390,wind chime,0.214,0.176,0.271,0.166
+👐,1f450,1F450,open hands sign,0.203,0.189,0.167,0.23
+💪,1f4aa,1F4AA,flexed biceps,0.225,0.251,0.231,0.204
+⬇,2b07,2B07,downwards black arrow,0.339,0.268,0.142,0.252
+🏂,1f3c2,1F3C2,snowboarder,0.137,0.132,0.029,0.206
+💥,1f4a5,1F4A5,collision symbol,0.169,0.164,0.048,0.2
+🔏,1f50f,1F50F,lock with ink pen,0.168,0.138,0.199,0.123
+😫,1f62b,1F62B,tired face,0.264,0.376,0.155,0.303
+🍎,1f34e,1F34E,red apple,0.251,0.182,0.195,0.121
+🔫,1f52b,1F52B,pistol,0.259,0.388,0.081,0.128
+㊙,3299,3299,circled ideograph secret,0.197,0.2,0.221,0.24
+🏧,1f3e7,1F3E7,automated teller machine,0.128,0.179,0.135,0.171
+🔘,1f518,1F518,radio button,0.218,0.209,0.158,0.261
+📋,1f4cb,1F4CB,clipboard,0.157,0.233,0.331,0.211
+😣,1f623,1F623,persevering face,0.327,0.516,0.175,0.416
+↙,2199,2199,south west arrow,0.137,0.171,0.151,0.12
+🍡,1f361,1F361,dango,0.279,0.193,0.139,0.054
+🍩,1f369,1F369,doughnut,0.152,0.259,0.136,0.15
+🔥,1f525,1F525,fire,0.306,0.225,0.103,0.179
+🍢,1f362,1F362,oden,0.123,0.077,0.069,0.166
+👿,1f47f,1F47F,imp,0.385,0.257,0.03,0.211
+😙,1f619,1F619,kissing face with smiling eyes,0.203,0.126,0.256,0.138
+👒,1f452,1F452,womans hat,0.175,0.17,0.281,0.151
+🔛,1f51b,1F51B,on with exclamation mark with left right arrow above,0.126,0.139,0.068,0.211
+🍚,1f35a,1F35A,cooked rice,0.203,0.126,0.222,0.289
+🎷,1f3b7,1F3B7,saxophone,0.107,0.16,0.244,0.216
+🙌,1f64c,1F64C,person raising both hands in celebration,0.122,0.101,0.254,0.236
+⬆,2b06,2B06,upwards black arrow,0.382,0.293,0.219,0.284
+🍵,1f375,1F375,teacup without handle,0.156,0.237,0.429,0.07
+📃,1f4c3,1F4C3,page with curl,0.201,0.294,0.282,0.27
+🔙,1f519,1F519,back with leftwards arrow above,0.075,0.166,0.062,0.202
+😜,1f61c,1F61C,face with stuck-out tongue and winking eye,0.126,0.059,0.139,0.129
+♈,2648,2648,aries,0.214,0.212,0.284,0.196
+🍖,1f356,1F356,meat on bone,0.177,0.218,0.213,0.106
+📍,1f4cd,1F4CD,round pushpin,0.164,0.269,0.148,0.29
+📺,1f4fa,1F4FA,television,0.322,0.247,0.227,0.222
+😘,1f618,1F618,face throwing a kiss,0.233,0.022,0.215,0.144
+ℹ,2139,2139,information source,0.178,0.259,0.264,0.284
+🎴,1f3b4,1F3B4,flower playing cards,0.181,0.211,0.067,0.134
+💗,1f497,1F497,growing heart,0.151,0.067,0.348,0.13
+😍,1f60d,1F60D,smiling face with heart-shaped eyes,0.307,0.18,0.308,0.137
+😗,1f617,1F617,kissing face,0.215,0.171,0.159,0.272
+🌟,1f31f,1F31F,glowing star,0.191,0.215,0.38,0.134
+🏊,1f3ca,1F3CA,swimmer,0.175,0.159,0.086,0.245
+👹,1f479,1F479,japanese ogre,0.37,0.419,0.109,0.257
+📈,1f4c8,1F4C8,chart with upwards trend,0.224,0.259,0.427,0.215
+😡,1f621,1F621,pouting face,0.468,0.362,0.074,0.401
+🍥,1f365,1F365,fish cake with swirl design,0.108,0.216,0.355,0.149
+🍪,1f36a,1F36A,cookie,0.117,0.18,0.168,0.1
+🎽,1f3bd,1F3BD,running shirt with sash,0.138,0.081,0.202,0.203
+💟,1f49f,1F49F,heart decoration,0.137,0.046,0.315,0.141
+📜,1f4dc,1F4DC,scroll,0.254,0.267,0.276,0.235
+🔝,1f51d,1F51D,top with upwards arrow above,0.162,0.185,0.205,0.191
+😨,1f628,1F628,fearful face,0.344,0.389,0.088,0.332
+🏠,1f3e0,1F3E0,house building,0.137,0.274,0.186,0.235
+🍑,1f351,1F351,peach,0.344,0.204,0.128,0.119
+🎢,1f3a2,1F3A2,roller coaster,0.065,0.133,0.111,0.189
+🎺,1f3ba,1F3BA,trumpet,0.128,0.178,0.206,0.221
+👄,1f444,1F444,mouth,0.245,0.136,0.321,0.121
+🐸,1f438,1F438,frog face,0.408,0.291,0.197,0.167
+🔦,1f526,1F526,electric torch,0.074,0.197,0.143,0.131
+😓,1f613,1F613,face with cold sweat,0.321,0.496,0.173,0.447
+🍮,1f36e,1F36E,custard,0.164,0.176,0.158,0.131
+🍸,1f378,1F378,cocktail glass,0.032,0.143,0.146,0.046
+🎎,1f38e,1F38E,japanese dolls,0.053,0.14,0.07,0.08
+📉,1f4c9,1F4C9,chart with downwards trend,0.288,0.396,0.294,0.383
+🔼,1f53c,1F53C,up-pointing small red triangle,0.264,0.261,0.238,0.295
+💛,1f49b,1F49B,yellow heart,0.158,0.177,0.27,0.262
+♊,264a,264A,gemini,0.228,0.132,0.262,0.177
+🌺,1f33a,1F33A,hibiscus,0.085,0.218,0.316,0.151
+📔,1f4d4,1F4D4,notebook with decorative cover,0.139,0.15,0.278,0.185
+🀄,1f004,1F004,mahjong tile red dragon,0.171,0.263,0.128,0.212
+🍣,1f363,1F363,sushi,0.134,0.196,0.137,0.214
+🐫,1f42b,1F42B,bactrian camel,0.151,0.263,0.131,0.154
+💮,1f4ae,1F4AE,white flower,0.187,0.141,0.19,0.144
+🙀,1f640,1F640,weary cat face,0.251,0.27,0.095,0.242
+🍻,1f37b,1F37B,clinking beer mugs,0.096,0.101,0.179,0.132
+😎,1f60e,1F60E,smiling face with sunglasses,0.036,0.092,0.026,0.093
+▫,25ab,25AB,white small square,0.276,0.227,0.125,0.161
+⭕,2b55,2B55,heavy large circle,0.154,0.178,0.122,0.315
+🌆,1f306,1F306,cityscape at dusk,0.053,0.24,0.259,0.234
+🍜,1f35c,1F35C,steaming bowl,0.183,0.129,0.167,0.226
+🏭,1f3ed,1F3ED,factory,0.205,0.306,0.246,0.21
+😞,1f61e,1F61E,disappointed face,0.318,0.467,0.131,0.394
+🎆,1f386,1F386,fireworks,0.051,0.165,0.191,0.165
+👅,1f445,1F445,tongue,0.316,0.062,0.136,0.133
+📼,1f4fc,1F4FC,videocassette,0.213,0.25,0.312,0.208
+🕗,1f557,1F557,clock face eight oclock,0.118,0.341,0.222,0.246
+🌃,1f303,1F303,night with stars,0.09,0.174,0.298,0.289
+🌷,1f337,1F337,tulip,0.175,0.245,0.37,0.188
+🐍,1f40d,1F40D,snake,0.37,0.352,0.169,0.166
+💾,1f4be,1F4BE,floppy disk,0.168,0.324,0.341,0.308
+📙,1f4d9,1F4D9,orange book,0.181,0.193,0.186,0.217
+🏯,1f3ef,1F3EF,japanese castle,0.092,0.232,0.164,0.149
+🌰,1f330,1F330,chestnut,0.212,0.167,0.169,0.078
+🍛,1f35b,1F35B,curry and rice,0.161,0.172,0.175,0.145
+🎒,1f392,1F392,school satchel,0.127,0.154,0.174,0.094
+💠,1f4a0,1F4A0,diamond shape with a dot inside,0.222,0.179,0.32,0.249
+📶,1f4f6,1F4F6,antenna with bars,0.164,0.122,0.151,0.132
+😾,1f63e,1F63E,pouting cat face,0.454,0.268,0.119,0.295
+☝,261d,261D,white up pointing index,0.254,0.233,0.492,0.36
+💹,1f4b9,1F4B9,chart with upwards trend and yen sign,0.175,0.248,0.305,0.208
+📡,1f4e1,1F4E1,satellite antenna,0.204,0.259,0.303,0.27
+📱,1f4f1,1F4F1,mobile phone,0.127,0.269,0.172,0.309
+◽,25fd,25FD,white medium small square,0.305,0.227,0.126,0.187
+⬜,2b1c,2B1C,white large square,0.348,0.194,0.155,0.229
+🎇,1f387,1F387,firework sparkler,0.103,0.209,0.221,0.206
+🐟,1f41f,1F41F,fish,0.131,0.167,0.147,0.102
+👳,1f473,1F473,man with turban,0.212,0.293,0.302,0.239
+🔮,1f52e,1F52E,crystal ball,0.169,0.22,0.354,0.196
+🎑,1f391,1F391,moon viewing ceremony,0.149,0.143,0.437,0.231
+🐠,1f420,1F420,tropical fish,0.063,0.271,0.14,0.122
+🐾,1f43e,1F43E,paw prints,0.266,0.249,0.129,0.155
+👟,1f45f,1F45F,athletic shoe,0.232,0.094,0.089,0.185
+😥,1f625,1F625,disappointed but relieved face,0.3,0.474,0.145,0.391
+🎄,1f384,1F384,christmas tree,0.137,0.17,0.285,0.081
+🐔,1f414,1F414,chicken,0.169,0.192,0.218,0.127
+💖,1f496,1F496,sparkling heart,0.217,0.068,0.422,0.163
+💘,1f498,1F498,heart with arrow,0.22,0.074,0.373,0.101
+😵,1f635,1F635,dizzy face,0.347,0.458,0.123,0.361
+👣,1f463,1F463,footprints,0.21,0.21,0.163,0.179
+📮,1f4ee,1F4EE,postbox,0.269,0.171,0.219,0.175
+🕐,1f550,1F550,clock face one oclock,0.144,0.341,0.209,0.198
+😽,1f63d,1F63D,kissing cat face with closed eyes,0.189,0.119,0.215,0.21
+👇,1f447,1F447,white down pointing backhand index,0.393,0.196,0.317,0.286
+⛵,26f5,26F5,sailboat,0.104,0.225,0.142,0.205
+🐴,1f434,1F434,horse face,0.254,0.164,0.078,0.159
+↪,21aa,21AA,rightwards arrow with hook,0.138,0.275,0.228,0.229
+🌴,1f334,1F334,palm tree,0.035,0.343,0.129,0.238
+🐝,1f41d,1F41D,honeybee,0.381,0.285,0.128,0.111
+🐰,1f430,1F430,rabbit face,0.165,0.222,0.217,0.037
+😔,1f614,1F614,pensive face,0.261,0.404,0.145,0.313
+⚓,2693,2693,anchor,0.22,0.179,0.245,0.243
+🍨,1f368,1F368,ice cream,0.228,0.189,0.232,0.114
+🍱,1f371,1F371,bento box,0.136,0.16,0.159,0.212
+👚,1f45a,1F45A,womans clothes,0.208,0.154,0.179,0.242
+👺,1f47a,1F47A,japanese goblin,0.42,0.35,0.149,0.301
+💇,1f487,1F487,haircut,0.237,0.215,0.266,0.153
+♋,264b,264B,cancer,0.209,0.219,0.201,0.255
+😑,1f611,1F611,expressionless face,0.415,0.308,0.11,0.319
+🙋,1f64b,1F64B,happy person raising one hand,0.068,0.084,0.08,0.156
+💦,1f4a6,1F4A6,splashing sweat symbol,0.26,0.119,0.081,0.169
+🍒,1f352,1F352,cherries,0.171,0.139,0.155,0.087
+🔌,1f50c,1F50C,electric plug,0.124,0.14,0.078,0.139
+☁,2601,2601,cloud,0.18,0.231,0.266,0.295
+⌚,231a,231A,watch,0.183,0.276,0.172,0.235
+⛪,26ea,26EA,church,0.208,0.276,0.773,0.366
+🌀,1f300,1F300,cyclone,0.169,0.288,0.177,0.214
+⬛,2b1b,2B1B,black large square,0.396,0.159,0.222,0.263
+🌓,1f313,1F313,first quarter moon symbol,0.241,0.233,0.265,0.284
+👀,1f440,1F440,eyes,0.272,0.218,0.049,0.063
+📲,1f4f2,1F4F2,mobile phone with rightwards arrow at left,0.098,0.142,0.156,0.206
+▪,25aa,25AA,black small square,0.319,0.249,0.141,0.227
+♠,2660,2660,black spade suit,0.246,0.213,0.187,0.279
+🎭,1f3ad,1F3AD,performing arts,0.159,0.108,0.204,0.162
+🐤,1f424,1F424,baby chick,0.156,0.238,0.125,0.057
+🐌,1f40c,1F40C,snail,0.162,0.239,0.199,0.17
+🐱,1f431,1F431,cat face,0.147,0.185,0.197,0.167
+🐼,1f43c,1F43C,panda face,0.069,0.232,0.091,0.153
+🕓,1f553,1F553,clock face four oclock,0.165,0.361,0.171,0.282
+👖,1f456,1F456,jeans,0.2,0.109,0.134,0.209
+🌼,1f33c,1F33C,blossom,0.202,0.299,0.314,0.242
+🎣,1f3a3,1F3A3,fishing pole and fish,0.174,0.148,0.075,0.128
+📐,1f4d0,1F4D0,triangular ruler,0.198,0.201,0.284,0.168
+🕒,1f552,1F552,clock face three oclock,0.167,0.369,0.209,0.282
+🌻,1f33b,1F33B,sunflower,0.203,0.243,0.354,0.212
+🐞,1f41e,1F41E,lady beetle,0.228,0.22,0.208,0.153
+🐣,1f423,1F423,hatching chick,0.099,0.171,0.16,0.125
+💲,1f4b2,1F4B2,heavy dollar sign,0.203,0.149,0.113,0.228
+♉,2649,2649,taurus,0.22,0.2,0.257,0.253
+⤵,2935,2935,arrow pointing rightwards then curving downwards,0.257,0.276,0.287,0.245
+🍠,1f360,1F360,roasted sweet potato,0.191,0.219,0.25,0.121
+🎌,1f38c,1F38C,crossed flags,0.114,0.048,0.039,0.207
+🔠,1f520,1F520,input symbol for latin capital letters,0.182,0.175,0.161,0.182
+🔪,1f52a,1F52A,hocho,0.321,0.449,0.075,0.125
+📏,1f4cf,1F4CF,straight ruler,0.249,0.206,0.215,0.155
+😝,1f61d,1F61D,face with stuck-out tongue and tightly-closed eyes,0.083,0.14,0.027,0.143
+📚,1f4da,1F4DA,books,0.167,0.157,0.351,0.141
+🌌,1f30c,1F30C,milky way,0.167,0.201,0.437,0.22
+🎫,1f3ab,1F3AB,ticket,0.108,0.082,0.101,0.327
+📳,1f4f3,1F4F3,vibration mode,0.075,0.176,0.083,0.134
+🙆,1f646,1F646,face with ok gesture,0.155,0.142,0.141,0.23
+🌋,1f30b,1F30B,volcano,0.207,0.247,0.141,0.22
+🏬,1f3ec,1F3EC,department store,0.081,0.231,0.199,0.18
+👲,1f472,1F472,man with gua pi mao,0.255,0.262,0.126,0.176
+💏,1f48f,1F48F,kiss,0.188,0.122,0.358,0.227
+🌂,1f302,1F302,closed umbrella,0.136,0.202,0.201,0.295
+👋,1f44b,1F44B,waving hand sign,0.256,0.252,0.146,0.199
+🍘,1f358,1F358,rice cracker,0.241,0.156,0.111,0.153
+🙊,1f64a,1F64A,speak-no-evil monkey,0.214,0.2,0.081,0.147
+♨,2668,2668,hot springs,0.21,0.228,0.128,0.173
+⛺,26fa,26FA,tent,0.105,0.189,0.247,0.151
+🍍,1f34d,1F34D,pineapple,0.117,0.194,0.133,0.123
+👷,1f477,1F477,construction worker,0.204,0.298,0.241,0.197
+🙇,1f647,1F647,person bowing deeply,0.256,0.331,0.262,0.299
+🎾,1f3be,1F3BE,tennis racquet and ball,0.174,0.198,0.174,0.327
+😴,1f634,1F634,sleeping face,0.266,0.234,0.33,0.255
+🏮,1f3ee,1F3EE,izakaya lantern,0.111,0.235,0.225,0.163
+🎀,1f380,1F380,ribbon,0.202,0.203,0.345,0.193
+🔗,1f517,1F517,link symbol,0.258,0.217,0.179,0.262
+😄,1f604,1F604,smiling face with open mouth and smiling eyes,0.184,0.197,0.188,0.149
+🙏,1f64f,1F64F,person with folded hands,0.187,0.178,0.485,0.351
+🎵,1f3b5,1F3B5,musical note,0.26,0.191,0.341,0.328
+🐒,1f412,1F412,monkey,0.179,0.379,0.083,0.032
+🐭,1f42d,1F42D,mouse face,0.189,0.208,0.136,0.094
+💆,1f486,1F486,face massage,0.264,0.232,0.258,0.282
+☑,2611,2611,ballot box with check,0.305,0.295,0.206,0.251
+🍀,1f340,1F340,four leaf clover,0.17,0.16,0.324,0.156
+🎁,1f381,1F381,wrapped present,0.076,0.188,0.326,0.058
+😶,1f636,1F636,face without mouth,0.34,0.335,0.15,0.359
+💙,1f499,1F499,blue heart,0.148,0.064,0.286,0.281
+🔰,1f530,1F530,japanese symbol for beginner,0.222,0.121,0.237,0.28
+🗿,1f5ff,1F5FF,moyai,0.131,0.153,0.118,0.095
+🐺,1f43a,1F43A,wolf face,0.185,0.289,0.083,0.172
+💻,1f4bb,1F4BB,personal computer,0.127,0.234,0.35,0.255
+🍄,1f344,1F344,mushroom,0.188,0.239,0.21,0.084
+😃,1f603,1F603,smiling face with open mouth,0.194,0.177,0.216,0.17
+♦,2666,2666,black diamond suit,0.305,0.178,0.226,0.213
+👠,1f460,1F460,high-heeled shoe,0.278,0.119,0.232,0.195
+🔣,1f523,1F523,input symbol for symbols,0.108,0.195,0.138,0.17
+🎋,1f38b,1F38B,tanabata tree,0.164,0.239,0.288,0.122
+💱,1f4b1,1F4B1,currency exchange,0.159,0.208,0.127,0.226
+🏡,1f3e1,1F3E1,house with garden,0.115,0.24,0.268,0.153
+🐚,1f41a,1F41A,spiral shell,0.106,0.301,0.316,0.174
+👉,1f449,1F449,white right pointing backhand index,0.197,0.258,0.249,0.258
+👜,1f45c,1F45C,handbag,0.099,0.154,0.223,0.293
+♎,264e,264E,libra,0.144,0.193,0.275,0.161
+🍉,1f349,1F349,watermelon,0.152,0.143,0.133,0.071
+👓,1f453,1F453,eyeglasses,0.157,0.178,0.123,0.149
+😷,1f637,1F637,face with medical mask,0.436,0.346,0.159,0.406
+☎,260e,260E,black telephone,0.257,0.204,0.221,0.267
+🏆,1f3c6,1F3C6,trophy,0.131,0.194,0.101,0.274
+🏈,1f3c8,1F3C8,american football,0.185,0.21,0.165,0.354
+🏦,1f3e6,1F3E6,bank,0.236,0.284,0.238,0.233
+👼,1f47c,1F47C,baby angel,0.206,0.197,0.414,0.371
+📊,1f4ca,1F4CA,bar chart,0.213,0.255,0.41,0.228
+🔐,1f510,1F510,closed lock with key,0.206,0.095,0.28,0.16
+🕙,1f559,1F559,clock face ten oclock,0.141,0.304,0.191,0.309
+🔺,1f53a,1F53A,up-pointing red triangle,0.321,0.243,0.25,0.214
+😅,1f605,1F605,smiling face with open mouth and cold sweat,0.19,0.307,0.232,0.277
+😭,1f62d,1F62D,loudly crying face,0.246,0.276,0.198,0.272
+🍔,1f354,1F354,hamburger,0.177,0.122,0.186,0.113
+👔,1f454,1F454,necktie,0.202,0.094,0.112,0.147
+📇,1f4c7,1F4C7,card index,0.147,0.196,0.249,0.212
+🔻,1f53b,1F53B,down-pointing red triangle,0.304,0.242,0.207,0.185
+🎍,1f38d,1F38D,pine decoration,0.115,0.271,0.336,0.17
+😺,1f63a,1F63A,smiling cat face with open mouth,0.149,0.192,0.145,0.25
+⏳,23f3,23F3,hourglass with flowing sand,0.197,0.31,0.266,0.25
+⛅,26c5,26C5,sun behind cloud,0.112,0.279,0.345,0.252
+🎈,1f388,1F388,balloon,0.042,0.128,0.102,0.077
+👪,1f46a,1F46A,family,0.249,0.132,0.418,0.215
+⁉,2049,2049,exclamation question mark,0.188,0.248,0.085,0.219
+🍗,1f357,1F357,poultry leg,0.121,0.183,0.215,0.122
+🌇,1f307,1F307,sunset over buildings,0.065,0.199,0.286,0.201
+🎏,1f38f,1F38F,carp streamer,0.125,0.212,0.131,0.095
+😊,1f60a,1F60A,smiling face with smiling eyes,0.067,0.073,0.248,0.247
+🗻,1f5fb,1F5FB,mount fuji,0.196,0.225,0.253,0.172
+▶,25b6,25B6,black right-pointing triangle,0.168,0.284,0.17,0.178
+⚡,26a1,26A1,high voltage sign,0.252,0.244,0.147,0.228
+🍌,1f34c,1F34C,banana,0.219,0.296,0.184,0.086
+👎,1f44e,1F44E,thumbs down sign,0.442,0.465,0.137,0.471
+💁,1f481,1F481,information desk person,0.361,0.099,0.197,0.112
+↘,2198,2198,south east arrow,0.23,0.242,0.103,0.175
+💒,1f492,1F492,wedding,0.092,0.139,0.631,0.252
+💰,1f4b0,1F4B0,money bag,0.185,0.173,0.143,0.177
+📒,1f4d2,1F4D2,ledger,0.115,0.17,0.256,0.182
+🌠,1f320,1F320,shooting star,0.176,0.16,0.377,0.2
+🌱,1f331,1F331,seedling,0.223,0.289,0.503,0.169
+⛄,26c4,26C4,snowman without snow,0.119,0.203,0.128,0.278
+👌,1f44c,1F44C,ok hand sign,0.153,0.21,0.206,0.16
+👫,1f46b,1F46B,man and woman holding hands,0.075,0.096,0.266,0.131
+〽,303d,303D,part alternation mark,0.203,0.123,0.201,0.305
+🔎,1f50e,1F50E,right-pointing magnifying glass,0.177,0.253,0.244,0.123
+🔴,1f534,1F534,large red circle,0.244,0.22,0.112,0.279
+🍆,1f346,1F346,aubergine,0.353,0.234,0.178,0.165
+🍧,1f367,1F367,shaved ice,0.213,0.168,0.152,0.096
+🎮,1f3ae,1F3AE,video game,0.138,0.202,0.145,0.25
+💬,1f4ac,1F4AC,speech balloon,0.233,0.302,0.227,0.214
+👽,1f47d,1F47D,extraterrestrial alien,0.15,0.231,0.155,0.152
+📛,1f4db,1F4DB,name badge,0.269,0.25,0.147,0.201
+🌾,1f33e,1F33E,ear of rice,0.188,0.259,0.383,0.215
+🎓,1f393,1F393,graduation cap,0.162,0.103,0.392,0.126
+📥,1f4e5,1F4E5,inbox tray,0.205,0.126,0.14,0.213
+😖,1f616,1F616,confounded face,0.392,0.531,0.172,0.433
+📢,1f4e2,1F4E2,public address loudspeaker,0.271,0.199,0.15,0.216
+🏪,1f3ea,1F3EA,convenience store,0.191,0.178,0.176,0.176
+🐦,1f426,1F426,bird,0.22,0.243,0.213,0.142
+👝,1f45d,1F45D,pouch,0.123,0.17,0.253,0.31
+💯,1f4af,1F4AF,hundred points symbol,0.254,0.147,0.145,0.123
+📆,1f4c6,1F4C6,tear-off calendar,0.139,0.267,0.095,0.299
+📫,1f4eb,1F4EB,closed mailbox with raised flag,0.191,0.108,0.097,0.136
+☀,2600,2600,black sun with rays,0.11,0.251,0.267,0.18
+🌹,1f339,1F339,rose,0.129,0.161,0.334,0.199
+🍞,1f35e,1F35E,bread,0.142,0.205,0.181,0.156
+🏨,1f3e8,1F3E8,hotel,0.075,0.246,0.196,0.184
+💄,1f484,1F484,lipstick,0.276,0.168,0.502,0.141
+😇,1f607,1F607,smiling face with halo,0.108,0.092,0.28,0.123
+😏,1f60f,1F60F,smirking face,0.258,0.041,0.096,0.146
+😱,1f631,1F631,face screaming in fear,0.292,0.263,0.133,0.21
+🙅,1f645,1F645,face with no good gesture,0.288,0.288,0.11,0.296
+⛲,26f2,26F2,fountain,0.101,0.229,0.276,0.292
+💺,1f4ba,1F4BA,seat,0.155,0.24,0.067,0.137
+◀,25c0,25C0,black left-pointing triangle,0.256,0.262,0.114,0.296
+♥,2665,2665,black heart suit,0.165,0.123,0.336,0.193
+🔱,1f531,1F531,trident emblem,0.228,0.144,0.219,0.257
+🕔,1f554,1F554,clock face five oclock,0.126,0.335,0.21,0.264
+😒,1f612,1F612,unamused face,0.418,0.297,0.119,0.333
+💐,1f490,1F490,bouquet,0.09,0.251,0.326,0.181
+📄,1f4c4,1F4C4,page facing up,0.196,0.31,0.3,0.29
+📓,1f4d3,1F4D3,notebook,0.128,0.144,0.281,0.174
+🔲,1f532,1F532,black square button,0.361,0.212,0.235,0.228
+😉,1f609,1F609,winking face,0.098,0.053,0.129,0.171
+💡,1f4a1,1F4A1,electric light bulb,0.237,0.199,0.306,0.225
+💽,1f4bd,1F4BD,minidisc,0.194,0.187,0.328,0.229
+😛,1f61b,1F61B,face with stuck-out tongue,0.242,0.19,0.142,0.14
+🏥,1f3e5,1F3E5,hospital,0.128,0.376,0.305,0.184
+💤,1f4a4,1F4A4,sleeping symbol,0.142,0.213,0.411,0.289
+🔧,1f527,1F527,wrench,0.25,0.313,0.337,0.137
+🙉,1f649,1F649,hear-no-evil monkey,0.303,0.277,0.094,0.283
+🎪,1f3aa,1F3AA,circus tent,0.113,0.196,0.111,0.204
+🐵,1f435,1F435,monkey face,0.194,0.327,0.079,0.061
+🔖,1f516,1F516,bookmark,0.257,0.174,0.182,0.289
+😼,1f63c,1F63C,cat face with wry smile,0.25,0.083,0.078,0.121
+🍅,1f345,1F345,tomato,0.284,0.22,0.294,0.236
+📘,1f4d8,1F4D8,blue book,0.156,0.191,0.149,0.193
+🎧,1f3a7,1F3A7,headphone,0.167,0.148,0.266,0.316
+👑,1f451,1F451,crown,0.333,0.118,0.268,0.127
+💫,1f4ab,1F4AB,dizzy symbol,0.233,0.147,0.359,0.134
+🕕,1f555,1F555,clock face six oclock,0.143,0.393,0.169,0.326
+😲,1f632,1F632,astonished face,0.348,0.411,0.138,0.327
+😆,1f606,1F606,smiling face with open mouth and tightly-closed eyes,0.165,0.216,0.119,0.188
+⚪,26aa,26AA,medium white circle,0.22,0.164,0.121,0.217
+👵,1f475,1F475,older woman,0.235,0.299,0.326,0.279
+💿,1f4bf,1F4BF,optical disc,0.22,0.165,0.332,0.261
+🔍,1f50d,1F50D,left-pointing magnifying glass,0.222,0.276,0.203,0.131
+♐,2650,2650,sagittarius,0.17,0.217,0.21,0.22
+⛽,26fd,26FD,fuel pump,0.375,0.161,0.138,0.185
+🌽,1f33d,1F33D,ear of maize,0.141,0.156,0.182,0.167
+🍲,1f372,1F372,pot of food,0.18,0.149,0.177,0.193
+🕑,1f551,1F551,clock face two oclock,0.122,0.35,0.191,0.298
+♓,2653,2653,pisces,0.169,0.176,0.233,0.239
+⚽,26bd,26BD,soccer ball,0.147,0.332,0.115,0.411
+🎅,1f385,1F385,father christmas,0.131,0.226,0.254,0.166
+⏪,23ea,23EA,black left-pointing double triangle,0.301,0.233,0.189,0.282
+🎻,1f3bb,1F3BB,violin,0.176,0.139,0.298,0.224
+💓,1f493,1F493,beating heart,0.171,0.078,0.323,0.157
+😀,1f600,1F600,grinning face,0.163,0.173,0.171,0.186
+👧,1f467,1F467,girl,0.227,0.16,0.214,0.146
+📌,1f4cc,1F4CC,pushpin,0.299,0.263,0.136,0.177
+😧,1f627,1F627,anguished face,0.309,0.485,0.14,0.369
+😳,1f633,1F633,flushed face,0.281,0.263,0.102,0.231
+🙍,1f64d,1F64D,person frowning,0.346,0.374,0.145,0.421
+☺,263a,263A,white smiling face,0.095,0.13,0.245,0.176
+🎿,1f3bf,1F3BF,ski and ski boot,0.103,0.077,0.051,0.192
+👏,1f44f,1F44F,clapping hands sign,0.219,0.256,0.189,0.214
+💋,1f48b,1F48B,kiss mark,0.272,0.108,0.273,0.167
+🔶,1f536,1F536,large orange diamond,0.33,0.211,0.223,0.335
+😯,1f62f,1F62F,hushed face,0.314,0.355,0.137,0.353
+☔,2614,2614,umbrella with rain drops,0.184,0.242,0.254,0.37
+🌿,1f33f,1F33F,herb,0.152,0.282,0.509,0.138
+💂,1f482,1F482,guardsman,0.19,0.23,0.081,0.176
+🏩,1f3e9,1F3E9,love hotel,0.041,0.141,0.229,0.155
+👾,1f47e,1F47E,alien monster,0.128,0.228,0.087,0.197
+📁,1f4c1,1F4C1,file folder,0.151,0.217,0.158,0.205
+📣,1f4e3,1F4E3,cheering megaphone,0.239,0.214,0.167,0.22
+🐛,1f41b,1F41B,bug,0.268,0.27,0.174,0.102
+🐡,1f421,1F421,blowfish,0.21,0.214,0.155,0.138
+🐻,1f43b,1F43B,bear face,0.205,0.256,0.129,0.196
+🔟,1f51f,1F51F,keycap ten,0.217,0.109,0.086,0.173
+😚,1f61a,1F61A,kissing face with closed eyes,0.179,0.08,0.217,0.168
+🐥,1f425,1F425,front-facing baby chick,0.135,0.147,0.152,0.151
+💈,1f488,1F488,barber pole,0.135,0.163,0.174,0.18
+👈,1f448,1F448,white left pointing backhand index,0.199,0.262,0.226,0.251
+🔢,1f522,1F522,input symbol for numbers,0.174,0.186,0.219,0.139
+😟,1f61f,1F61F,worried face,0.349,0.397,0.097,0.348
+🌁,1f301,1F301,foggy,0.162,0.301,0.317,0.283
+🐢,1f422,1F422,turtle,0.108,0.251,0.239,0.08
+🗼,1f5fc,1F5FC,tokyo tower,0.115,0.092,0.168,0.24
+💸,1f4b8,1F4B8,money with wings,0.123,0.096,0.166,0.121
+📠,1f4e0,1F4E0,fax machine,0.241,0.352,0.167,0.226
+⚾,26be,26BE,baseball,0.143,0.242,0.099,0.369
+🍯,1f36f,1F36F,honey pot,0.177,0.181,0.264,0.143
+💳,1f4b3,1F4B3,credit card,0.144,0.089,0.241,0.213
+📹,1f4f9,1F4F9,video camera,0.301,0.29,0.235,0.202
+🍏,1f34f,1F34F,green apple,0.16,0.188,0.405,0.102
+👤,1f464,1F464,bust in silhouette,0.294,0.347,0.186,0.279
+💃,1f483,1F483,dancer,0.112,0.116,0.138,0.139
+📟,1f4df,1F4DF,pager,0.144,0.191,0.229,0.259
+😰,1f630,1F630,face with open mouth and cold sweat,0.343,0.439,0.134,0.352
+🍹,1f379,1F379,tropical drink,0.144,0.178,0.159,0.119
+👶,1f476,1F476,baby,0.266,0.201,0.457,0.156
+♿,267f,267F,wheelchair symbol,0.18,0.179,0.093,0.264
+⛎,26ce,26CE,ophiuchus,0.213,0.17,0.233,0.228
+🐘,1f418,1F418,elephant,0.224,0.234,0.163,0.156
+💴,1f4b4,1F4B4,banknote with yen sign,0.217,0.182,0.171,0.302
+⚠,26a0,26A0,warning sign,0.264,0.293,0.107,0.212
+🍰,1f370,1F370,shortcake,0.126,0.196,0.166,0.089
+🐲,1f432,1F432,dragon face,0.198,0.298,0.205,0.157
+🔚,1f51a,1F51A,end with leftwards arrow above,0.285,0.32,0.232,0.403
+😁,1f601,1F601,grinning face with smiling eyes,0.091,0.251,0.123,0.079
+🌑,1f311,1F311,new moon symbol,0.239,0.221,0.258,0.291
+👞,1f45e,1F45E,mans shoe,0.276,0.174,0.11,0.173
+👰,1f470,1F470,bride with veil,0.193,0.268,0.502,0.185
+💀,1f480,1F480,skull,0.362,0.267,0.056,0.218
+💊,1f48a,1F48A,pill,0.195,0.253,0.182,0.203
+📦,1f4e6,1F4E6,package,0.126,0.186,0.214,0.143
+🏰,1f3f0,1F3F0,european castle,0.069,0.202,0.132,0.222
+📑,1f4d1,1F4D1,bookmark tabs,0.137,0.228,0.301,0.23
+😋,1f60b,1F60B,face savouring delicious food,0.128,0.107,0.169,0.091
+👡,1f461,1F461,womans sandal,0.246,0.236,0.208,0.23
+👨,1f468,1F468,man,0.243,0.131,0.291,0.098
+👻,1f47b,1F47B,ghost,0.147,0.201,0.017,0.108
+📞,1f4de,1F4DE,telephone receiver,0.179,0.167,0.101,0.311
+♣,2663,2663,black club suit,0.188,0.228,0.128,0.248
+〰,3030,3030,wavy dash,0.235,0.287,0.253,0.268
+🎳,1f3b3,1F3B3,bowling,0.074,0.165,0.073,0.275
+👊,1f44a,1F44A,fisted hand sign,0.236,0.253,0.13,0.273
+💅,1f485,1F485,nail polish,0.418,0.121,0.314,0.099
+🕘,1f558,1F558,clock face nine oclock,0.15,0.367,0.197,0.331
+🍙,1f359,1F359,rice ball,0.103,0.254,0.092,0.262
+📝,1f4dd,1F4DD,memo,0.147,0.235,0.269,0.203
+😮,1f62e,1F62E,face with open mouth,0.271,0.29,0.16,0.295
+‼,203c,203C,double exclamation mark,0.157,0.125,0.063,0.086
+⏫,23eb,23EB,black up-pointing double triangle,0.243,0.236,0.251,0.256
+⭐,2b50,2B50,white medium star,0.237,0.175,0.29,0.16
+💨,1f4a8,1F4A8,dash symbol,0.363,0.18,0.102,0.164
+♍,264d,264D,virgo,0.17,0.109,0.264,0.195
+🍂,1f342,1F342,fallen leaf,0.133,0.167,0.286,0.168
+🎩,1f3a9,1F3A9,top hat,0.172,0.214,0.112,0.207
+👍,1f44d,1F44D,thumbs up sign,0.202,0.265,0.264,0.194
+👩,1f469,1F469,woman,0.241,0.215,0.29,0.142
+💕,1f495,1F495,two hearts,0.172,0.088,0.383,0.142
+💵,1f4b5,1F4B5,banknote with dollar sign,0.21,0.19,0.149,0.192
+📷,1f4f7,1F4F7,camera,0.198,0.296,0.287,0.197
+🔸,1f538,1F538,small orange diamond,0.258,0.162,0.234,0.271
+🗾,1f5fe,1F5FE,silhouette of japan,0.122,0.213,0.241,0.152
+🐗,1f417,1F417,boar,0.187,0.269,0.122,0.158
+👦,1f466,1F466,boy,0.171,0.155,0.225,0.159
+📖,1f4d6,1F4D6,open book,0.196,0.207,0.259,0.243
+🔃,1f503,1F503,clockwise downwards and upwards open circle arrows,0.229,0.234,0.23,0.262
+📗,1f4d7,1F4D7,green book,0.154,0.24,0.391,0.107
+🔜,1f51c,1F51C,soon with rightwards arrow above,0.123,0.179,0.191,0.302
+🍳,1f373,1F373,cooking,0.078,0.221,0.139,0.118
+🎰,1f3b0,1F3B0,slot machine,0.085,0.169,0.067,0.23
+🔓,1f513,1F513,open lock,0.207,0.206,0.17,0.109
+🍃,1f343,1F343,leaf fluttering in wind,0.231,0.194,0.382,0.139
+📪,1f4ea,1F4EA,closed mailbox with lowered flag,0.184,0.19,0.109,0.181
+😪,1f62a,1F62A,sleepy face,0.267,0.375,0.205,0.367
+🌈,1f308,1F308,rainbow,0.183,0.207,0.317,0.261
+🎤,1f3a4,1F3A4,microphone,0.121,0.081,0.237,0.29
+🎼,1f3bc,1F3BC,musical score,0.149,0.09,0.371,0.315
+🔳,1f533,1F533,white square button,0.351,0.226,0.225,0.167
+😠,1f620,1F620,angry face,0.493,0.375,0.074,0.443
+♒,2652,2652,aquarius,0.178,0.306,0.232,0.228
+👂,1f442,1F442,ear,0.299,0.33,0.316,0.357
+📀,1f4c0,1F4C0,dvd,0.184,0.143,0.319,0.307
+↗,2197,2197,north east arrow,0.199,0.224,0.159,0.243
+⤴,2934,2934,arrow pointing rightwards then curving upwards,0.262,0.255,0.222,0.229
+🍕,1f355,1F355,slice of pizza,0.142,0.109,0.149,0.11
+📨,1f4e8,1F4E8,incoming envelope,0.24,0.196,0.168,0.248
+☕,2615,2615,hot beverage,0.142,0.2,0.317,0.106
+🐩,1f429,1F429,poodle,0.186,0.216,0.168,0.152
+👗,1f457,1F457,dress,0.183,0.16,0.292,0.242
+👱,1f471,1F471,person with blond hair,0.257,0.23,0.226,0.166
+💌,1f48c,1F48C,love letter,0.13,0.15,0.331,0.142
+💣,1f4a3,1F4A3,bomb,0.22,0.196,0.163,0.205
+🎯,1f3af,1F3AF,direct hit,0.177,0.213,0.098,0.09
+💢,1f4a2,1F4A2,anger symbol,0.316,0.208,0.036,0.289
+🔊,1f50a,1F50A,speaker with three sound waves,0.259,0.187,0.154,0.348
+🔹,1f539,1F539,small blue diamond,0.23,0.181,0.246,0.232
+😸,1f638,1F638,grinning cat face with smiling eyes,0.12,0.161,0.176,0.201
+🎂,1f382,1F382,birthday cake,0.055,0.185,0.317,0.122
+🎠,1f3a0,1F3A0,carousel horse,0.119,0.128,0.125,0.173
+🎦,1f3a6,1F3A6,cinema,0.273,0.207,0.206,0.218
+👯,1f46f,1F46F,woman with bunny ears,0.241,0.11,0.052,0.18
+💞,1f49e,1F49E,revolving hearts,0.2,0.097,0.427,0.142
+🍝,1f35d,1F35D,spaghetti,0.056,0.149,0.149,0.159
+🍟,1f35f,1F35F,french fries,0.164,0.154,0.14,0.177
+🍦,1f366,1F366,soft ice cream,0.156,0.181,0.141,0.09
+🏣,1f3e3,1F3E3,japanese post office,0.19,0.309,0.226,0.249
+👃,1f443,1F443,nose,0.383,0.272,0.186,0.52
+📕,1f4d5,1F4D5,closed book,0.199,0.162,0.256,0.16
+🏀,1f3c0,1F3C0,basketball and hoop,0.171,0.209,0.118,0.398
+🐽,1f43d,1F43D,pig nose,0.212,0.188,0.167,0.392
+♏,264f,264F,scorpius,0.185,0.218,0.302,0.274
+⚫,26ab,26AB,medium black circle,0.335,0.212,0.176,0.3
+⬅,2b05,2B05,leftwards black arrow,0.282,0.221,0.126,0.199
+👸,1f478,1F478,princess,0.398,0.198,0.337,0.175
+🔑,1f511,1F511,key,0.165,0.157,0.239,0.116
+🍁,1f341,1F341,maple leaf,0.279,0.172,0.208,0.147
+🎹,1f3b9,1F3B9,musical keyboard,0.132,0.108,0.34,0.265
+🏫,1f3eb,1F3EB,school,0.15,0.268,0.296,0.162
+📰,1f4f0,1F4F0,newspaper,0.222,0.338,0.27,0.246
+↩,21a9,21A9,leftwards arrow with hook,0.181,0.292,0.179,0.208
+🍫,1f36b,1F36B,chocolate bar,0.147,0.117,0.152,0.108
+🍬,1f36c,1F36C,candy,0.192,0.184,0.188,0.12
+♌,264c,264C,leo,0.241,0.221,0.212,0.241
+㊗,3297,3297,circled ideograph congratulation,0.158,0.162,0.255,0.199
+🌔,1f314,1F314,waxing gibbous moon symbol,0.181,0.245,0.327,0.221
+🐧,1f427,1F427,penguin,0.151,0.188,0.134,0.141
+🐮,1f42e,1F42E,cow face,0.142,0.222,0.129,0.185
+🐯,1f42f,1F42F,tiger face,0.13,0.392,0.074,0.259
+🌅,1f305,1F305,sunrise,0.107,0.292,0.4,0.158
+🎨,1f3a8,1F3A8,artist palette,0.136,0.118,0.442,0.058
+🔋,1f50b,1F50B,battery,0.082,0.179,0.196,0.111
+😤,1f624,1F624,face with look of triumph,0.399,0.21,0.043,0.22
+◻,25fb,25FB,white medium square,0.395,0.255,0.169,0.231
+⛳,26f3,26F3,flag in hole,0.134,0.207,0.222,0.175
+🏃,1f3c3,1F3C3,runner,0.162,0.297,0.062,0.2
+⏬,23ec,23EC,black down-pointing double triangle,0.287,0.247,0.22,0.224
+🍇,1f347,1F347,grapes,0.176,0.155,0.179,0.176
+🐨,1f428,1F428,koala,0.119,0.217,0.116,0.109
+📎,1f4ce,1F4CE,paperclip,0.289,0.219,0.194,0.231
+📤,1f4e4,1F4E4,outbox tray,0.204,0.229,0.197,0.194
+👢,1f462,1F462,womans boots,0.221,0.095,0.127,0.239
+💉,1f489,1F489,syringe,0.21,0.245,0.142,0.124
+🔯,1f52f,1F52F,six pointed star with middle dot,0.249,0.161,0.343,0.282
+🌏,1f30f,1F30F,earth globe asia-australia,0.163,0.242,0.261,0.188
+🍈,1f348,1F348,melon,0.282,0.313,0.262,0.077
+🍓,1f353,1F353,strawberry,0.153,0.198,0.197,0.104
+💧,1f4a7,1F4A7,droplet,0.199,0.223,0.203,0.248
+😹,1f639,1F639,cat face with tears of joy,0.438,0.178,0.116,0.282
+🌙,1f319,1F319,crescent moon,0.098,0.137,0.287,0.218
+🎡,1f3a1,1F3A1,ferris wheel,0.092,0.168,0.141,0.156
+📧,1f4e7,1F4E7,e-mail symbol,0.26,0.225,0.21,0.24
+◾,25fe,25FE,black medium small square,0.392,0.211,0.186,0.255
+👆,1f446,1F446,white up pointing backhand index,0.259,0.142,0.46,0.299
+🔽,1f53d,1F53D,down-pointing small red triangle,0.195,0.258,0.182,0.225
+🕛,1f55b,1F55B,clock face twelve oclock,0.186,0.347,0.165,0.349
+👘,1f458,1F458,kimono,0.144,0.196,0.238,0.222
+💔,1f494,1F494,broken heart,0.244,0.34,0.199,0.332
+🙈,1f648,1F648,see-no-evil monkey,0.183,0.27,0.089,0.135
+🌵,1f335,1F335,cactus,0.087,0.245,0.192,0.034
+💎,1f48e,1F48E,gem stone,0.173,0.073,0.543,0.108
+💜,1f49c,1F49C,purple heart,0.183,0.131,0.341,0.207
+📴,1f4f4,1F4F4,mobile phone off,0.176,0.247,0.146,0.245
+↕,2195,2195,up down arrow,0.274,0.277,0.207,0.276
+🍤,1f364,1F364,fried shrimp,0.138,0.15,0.191,0.165
+🔔,1f514,1F514,bell,0.27,0.219,0.242,0.427
+🕖,1f556,1F556,clock face seven oclock,0.15,0.35,0.089,0.33
+😈,1f608,1F608,smiling face with horns,0.213,0.055,0.081,0.193
+↖,2196,2196,north west arrow,0.193,0.214,0.186,0.124
+🃏,1f0cf,1F0CF,playing card black joker,0.233,0.286,0.051,0.177
+🐬,1f42c,1F42C,dolphin,0.107,0.184,0.117,0.204
+👕,1f455,1F455,t-shirt,0.219,0.078,0.116,0.226
+👛,1f45b,1F45B,purse,0.105,0.196,0.302,0.202
+👴,1f474,1F474,older man,0.27,0.263,0.276,0.215
+📅,1f4c5,1F4C5,calendar,0.174,0.21,0.131,0.225
+😦,1f626,1F626,frowning face with open mouth,0.37,0.423,0.128,0.355
+⏰,23f0,23F0,alarm clock,0.176,0.28,0.154,0.227
+🍷,1f377,1F377,wine glass,0.046,0.124,0.218,0.059
+🐙,1f419,1F419,octopus,0.098,0.234,0.199,0.086
+💍,1f48d,1F48D,ring,0.171,0.073,0.46,0.173
+🏁,1f3c1,1F3C1,chequered flag,0.221,0.184,0.125,0.263
+💑,1f491,1F491,couple with heart,0.165,0.113,0.409,0.25
+😌,1f60c,1F60C,relieved face,0.127,0.182,0.254,0.137
+😬,1f62c,1F62C,grimacing face,0.161,0.328,0.1,0.211
+🍭,1f36d,1F36D,lollipop,0.092,0.163,0.158,0.055
+🍴,1f374,1F374,fork and knife,0.053,0.078,0.126,0.285
+💩,1f4a9,1F4A9,pile of poo,0.35,0.342,0.151,0.446
+🔷,1f537,1F537,large blue diamond,0.249,0.053,0.236,0.278
+🗽,1f5fd,1F5FD,statue of liberty,0.09,0.226,0.113,0.186
+◼,25fc,25FC,black medium square,0.445,0.245,0.21,0.264
+♑,2651,2651,capricorn,0.196,0.172,0.3,0.179
+🎱,1f3b1,1F3B1,billiards,0.257,0.09,0.059,0.204
+⛔,26d4,26D4,no entry,0.312,0.445,0.136,0.344
+🌊,1f30a,1F30A,water wave,0.106,0.29,0.123,0.222
+🐎,1f40e,1F40E,horse,0.281,0.172,0.148,0.212
+🐑,1f411,1F411,sheep,0.29,0.169,0.12,0.292
+🐶,1f436,1F436,dog face,0.13,0.18,0.257,0.084
+🔞,1f51e,1F51E,no one under eighteen symbol,0.109,0.136,0.051,0.179
+↔,2194,2194,left right arrow,0.329,0.372,0.214,0.335
+😻,1f63b,1F63B,smiling cat face with heart-shaped eyes,0.304,0.1,0.319,0.145
+🎬,1f3ac,1F3AC,clapper board,0.213,0.196,0.237,0.162
+🌛,1f31b,1F31B,first quarter moon with face,0.11,0.103,0.32,0.227
+🍶,1f376,1F376,sake bottle and cup,0.145,0.255,0.282,0.145
+🎲,1f3b2,1F3B2,game die,0.126,0.162,0.09,0.179
+🙎,1f64e,1F64E,person with pouting face,0.293,0.244,0.196,0.299
+🌄,1f304,1F304,sunrise over mountains,0.103,0.28,0.392,0.205
+🍊,1f34a,1F34A,tangerine,0.169,0.199,0.284,0.237
+🍺,1f37a,1F37A,beer mug,0.157,0.12,0.167,0.097
+🐳,1f433,1F433,spouting whale,0.16,0.184,0.09,0.159
+😢,1f622,1F622,crying face,0.284,0.385,0.21,0.333
+⌛,231b,231B,hourglass,0.205,0.305,0.25,0.266
+🎥,1f3a5,1F3A5,movie camera,0.142,0.178,0.233,0.158
+🕚,1f55a,1F55A,clock face eleven oclock,0.123,0.282,0.119,0.316
+🌉,1f309,1F309,bridge at night,0.079,0.151,0.24,0.247
+💼,1f4bc,1F4BC,briefcase,0.173,0.192,0.286,0.175
+🎶,1f3b6,1F3B6,multiple musical notes,0.149,0.131,0.326,0.31
+📂,1f4c2,1F4C2,open file folder,0.213,0.263,0.171,0.276
+🔡,1f521,1F521,input symbol for latin small letters,0.193,0.191,0.173,0.129
+🌸,1f338,1F338,cherry blossom,0.122,0.197,0.31,0.13
+💝,1f49d,1F49D,heart with ribbon,0.106,0.172,0.417,0.144
+👙,1f459,1F459,bikini,0.13,0.132,0.177,0.187
+🔩,1f529,1F529,nut and bolt,0.181,0.276,0.175,0.178
+🔵,1f535,1F535,large blue circle,0.203,0.241,0.117,0.336
+😂,1f602,1F602,face with tears of joy,0.381,0.231,0.099,0.326
+😐,1f610,1F610,neutral face,0.415,0.309,0.149,0.322
+🐜,1f41c,1F41C,ant,0.269,0.308,0.098,0.112
+📩,1f4e9,1F4E9,envelope with downwards arrow above,0.251,0.088,0.063,0.199
+😿,1f63f,1F63F,crying cat face,0.257,0.264,0.246,0.344
