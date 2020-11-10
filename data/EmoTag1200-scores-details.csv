@@ -1,0 +1,151 @@
+unicode,anger,anger-stddev,anticipation,anticipation-stddev,disgust,disgust-stddev,fear,fear-stddev,joy,joy-stddev,sadness,sadness-stddev,surprise,surprise-stddev,trust,trust-stddev,emoji,name,group,sub-group
+1F308,0,0,0.28,0.42,0,0,0,0,0.69,0.26,0.06,0.16,0.22,0.36,0.33,0.47,🌈,rainbow,Travel & Places,sky & weather
+1F319,0,0,0.31,0.44,0,0,0,0,0.25,0.26,0,0,0.06,0.16,0.25,0.37,🌙,crescent moon,Travel & Places,sky & weather
+1F31A,0.06,0.16,0.08,0.17,0.17,0.24,0.06,0.16,0.42,0.24,0.19,0.28,0.06,0.16,0.11,0.17,🌚,new moon face,Travel & Places,sky & weather
+1F31E,0,0,0.22,0.34,0,0,0,0,0.78,0.22,0,0,0.11,0.21,0.22,0.34,🌞,sun with face,Travel & Places,sky & weather
+1F31F,0,0,0.28,0.36,0,0,0,0,0.53,0.25,0,0,0.25,0.41,0.31,0.4,🌟,glowing star,Travel & Places,sky & weather
+1F337,0,0,0.31,0.44,0,0,0,0,0.44,0.2,0,0,0,0,0.22,0.36,🌷,tulip,Animals & Nature,plant-flower
+1F338,0,0,0.22,0.34,0,0,0,0,0.56,0.28,0,0,0.14,0.27,0.25,0.31,🌸,cherry blossom,Animals & Nature,plant-flower
+1F339,0,0,0.36,0.43,0,0,0,0,0.56,0.35,0,0,0.11,0.31,0.72,0.32,🌹,rose,Animals & Nature,plant-flower
+1F33A,0,0,0.11,0.31,0,0,0,0,0.39,0.29,0,0,0.06,0.16,0.19,0.33,🌺,hibiscus,Animals & Nature,plant-flower
+1F340,0,0,0.39,0.46,0,0,0,0,0.47,0.42,0,0,0.22,0.42,0.44,0.44,🍀,four leaf clover,Animals & Nature,plant-other
+1F343,0,0,0.31,0.4,0,0,0,0,0.11,0.24,0.17,0.31,0.03,0.08,0.06,0.16,🍃,leaf fluttering in wind,Animals & Nature,plant-other
+1F355,0.06,0.16,0.39,0.34,0.06,0.16,0.06,0.16,0.47,0.32,0.06,0.16,0.17,0.26,0.17,0.33,🍕,pizza,Food & Drink,food-prepared
+1F37B,0,0,0.44,0.44,0,0,0,0,0.72,0.34,0,0,0.25,0.33,0.53,0.42,🍻,clinking beer mugs,Food & Drink,drink
+1F380,0,0,0.42,0.39,0,0,0,0,0.44,0.33,0,0,0.36,0.36,0.22,0.27,🎀,ribbon,Activities,event
+1F388,0.06,0.16,0.25,0.24,0.06,0.16,0.06,0.16,0.47,0.32,0.06,0.16,0.31,0.44,0.22,0.27,🎈,balloon,Activities,event
+1F389,0,0,0.33,0.31,0,0,0,0,0.92,0.12,0,0,0.5,0.47,0.33,0.39,🎉,party popper,Activities,event
+1F3A4,0,0,0.39,0.41,0,0,0.06,0.16,0.39,0.39,0.08,0.24,0.08,0.24,0.25,0.41,🎤,microphone,Objects,music
+1F3A5,0,0,0.28,0.42,0,0,0,0,0.19,0.23,0,0,0.17,0.24,0.17,0.33,🎥,movie camera,Objects,light & video
+1F3A7,0,0,0.08,0.17,0,0,0,0,0.44,0.44,0,0,0,0,0.03,0.08,🎧,headphone,Objects,music
+1F3B5,0,0,0.25,0.37,0,0,0,0,0.47,0.42,0.08,0.24,0.08,0.24,0.17,0.26,🎵,musical note,Objects,music
+1F3B6,0,0,0.22,0.3,0,0,0,0,0.47,0.34,0,0,0.22,0.25,0.14,0.27,🎶,musical notes,Objects,music
+1F440,0.14,0.27,0.81,0.23,0.17,0.31,0.42,0.37,0,0,0.17,0.26,0.64,0.37,0.06,0.1,👀,eyes,People & Body,body-parts
+1F445,0,0,0.17,0.31,0,0,0,0,0.36,0.29,0,0,0.08,0.17,0.11,0.21,👅,tongue,People & Body,body-parts
+1F447,0.11,0.21,0.14,0.21,0,0,0.06,0.16,0,0,0,0,0,0,0.11,0.31,👇,backhand index pointing down,People & Body,hand-single-finger
+1F448,0.14,0.31,0.17,0.24,0,0,0,0,0,0,0,0,0.06,0.16,0.08,0.24,👈,backhand index pointing left,People & Body,hand-single-finger
+1F449,0.06,0.16,0.25,0.37,0,0,0,0,0,0,0,0,0.03,0.08,0.17,0.24,👉,backhand index pointing right,People & Body,hand-single-finger
+1F44A,0.44,0.42,0.36,0.31,0.14,0.31,0.11,0.31,0.22,0.27,0,0,0,0,0.61,0.41,👊,oncoming fist,People & Body,hand-fingers-closed
+1F44B,0.08,0.17,0.28,0.34,0.06,0.16,0,0,0.22,0.22,0,0,0.08,0.17,0.22,0.25,👋,waving hand,People & Body,hand-fingers-open
+1F44C,0,0,0.36,0.37,0,0,0,0,0.22,0.18,0,0,0.22,0.32,0.56,0.4,👌,OK hand,People & Body,hand-fingers-partial
+1F44D,0.11,0.31,0.39,0.34,0.06,0.16,0.08,0.24,0.39,0.24,0.06,0.16,0.14,0.24,0.47,0.4,👍,thumbs up,People & Body,hand-fingers-closed
+1F44E,0.5,0.29,0.08,0.17,0.67,0.29,0.14,0.31,0,0,0.31,0.31,0.14,0.27,0.06,0.16,👎,thumbs down,People & Body,hand-fingers-closed
+1F44F,0.08,0.24,0.39,0.41,0.08,0.24,0,0,0.64,0.34,0,0,0.25,0.29,0.53,0.4,👏,clapping hands,People & Body,hands
+1F451,0,0,0.25,0.37,0,0,0,0,0.28,0.34,0,0,0.11,0.24,0.25,0.37,👑,crown,Objects,clothing
+1F47B,0.11,0.24,0.08,0.17,0.08,0.24,0.69,0.31,0,0,0.11,0.24,0.31,0.33,0.08,0.24,👻,ghost,Smileys & Emotion,face-costume
+1F480,0.19,0.33,0.14,0.21,0.25,0.33,0.61,0.41,0.03,0.08,0.31,0.4,0.06,0.16,0.11,0.31,💀,skull,Smileys & Emotion,face-negative
+1F481,0.08,0.17,0.33,0.35,0.08,0.17,0.06,0.16,0.14,0.21,0.06,0.16,0.17,0.33,0.25,0.41,💁,person tipping hand,People & Body,person-gesture
+1F483,0,0,0.11,0.24,0,0,0,0,0.69,0.33,0,0,0.17,0.24,0.19,0.33,💃,woman dancing,People & Body,person-activity
+1F48B,0,0,0.28,0.4,0,0,0,0,0.78,0.32,0,0,0.19,0.31,0.69,0.37,💋,kiss mark,Smileys & Emotion,emotion
+1F48E,0,0,0.31,0.44,0,0,0.06,0.16,0.33,0.39,0,0,0.25,0.37,0.5,0.46,💎,gem stone,Objects,clothing
+1F490,0,0,0.39,0.44,0,0,0,0,0.69,0.35,0.11,0.31,0.36,0.39,0.58,0.41,💐,bouquet,Animals & Nature,plant-flower
+1F493,0,0,0.47,0.32,0,0,0.08,0.24,0.61,0.37,0,0,0.19,0.33,0.67,0.39,💓,beating heart,Smileys & Emotion,emotion
+1F494,0.39,0.37,0.19,0.37,0.33,0.39,0.14,0.31,0,0,0.94,0.1,0.08,0.17,0.17,0.31,💔,broken heart,Smileys & Emotion,emotion
+1F495,0,0,0.31,0.37,0,0,0,0,0.83,0.2,0,0,0.11,0.21,0.75,0.33,💕,two hearts,Smileys & Emotion,emotion
+1F496,0,0,0.33,0.41,0,0,0,0,0.89,0.12,0,0,0.25,0.26,0.53,0.42,💖,sparkling heart,Smileys & Emotion,emotion
+1F497,0,0,0.36,0.37,0,0,0,0,0.89,0.17,0,0,0.22,0.22,0.5,0.33,💗,growing heart,Smileys & Emotion,emotion
+1F498,0.03,0.08,0.31,0.37,0.06,0.16,0.06,0.16,0.67,0.39,0.14,0.27,0.06,0.16,0.64,0.39,💘,heart with arrow,Smileys & Emotion,emotion
+1F499,0,0,0.25,0.33,0,0,0,0,0.61,0.29,0.17,0.31,0.17,0.2,0.28,0.36,💙,blue heart,Smileys & Emotion,emotion
+1F49A,0,0,0.11,0.24,0,0,0,0,0.58,0.31,0.03,0.08,0.03,0.08,0.33,0.39,💚,green heart,Smileys & Emotion,emotion
+1F49B,0.03,0.08,0.11,0.21,0.06,0.16,0,0,0.53,0.36,0.08,0.24,0.08,0.17,0.36,0.43,💛,yellow heart,Smileys & Emotion,emotion
+1F49C,0,0,0.11,0.24,0.06,0.16,0.06,0.16,0.47,0.25,0.11,0.24,0.08,0.17,0.31,0.35,💜,purple heart,Smileys & Emotion,emotion
+1F49E,0,0,0.25,0.41,0,0,0,0,0.83,0.26,0,0,0.22,0.36,0.61,0.41,💞,revolving hearts,Smileys & Emotion,emotion
+1F4A4,0.06,0.16,0.36,0.27,0.19,0.33,0.06,0.16,0.11,0.17,0.14,0.27,0.06,0.16,0.22,0.34,💤,zzz,Smileys & Emotion,emotion
+1F4A5,0.44,0.4,0.19,0.31,0.19,0.37,0.31,0.44,0.11,0.31,0.14,0.27,0.31,0.4,0.08,0.17,💥,collision,Smileys & Emotion,emotion
+1F4A6,0,0,0.11,0.31,0.11,0.21,0.06,0.16,0,0,0.14,0.21,0,0,0,0,💦,sweat droplets,Smileys & Emotion,emotion
+1F4A9,0.14,0.21,0.08,0.17,0.64,0.37,0,0,0.25,0.33,0.03,0.08,0.19,0.23,0.11,0.21,💩,pile of poo,Smileys & Emotion,face-costume
+1F4AA,0.03,0.08,0.31,0.31,0,0,0,0,0.42,0.37,0,0,0.08,0.17,0.31,0.4,💪,flexed biceps,People & Body,body-parts
+1F4AB,0,0,0.19,0.33,0,0,0.06,0.16,0.44,0.42,0,0,0.19,0.33,0.11,0.21,💫,dizzy,Smileys & Emotion,emotion
+1F4AD,0.11,0.31,0.64,0.43,0.11,0.31,0.11,0.31,0.17,0.31,0.11,0.31,0.17,0.33,0.22,0.34,💭,thought balloon,Smileys & Emotion,emotion
+1F4AF,0.06,0.16,0.28,0.36,0.06,0.16,0.06,0.16,0.64,0.36,0.06,0.16,0.19,0.23,0.53,0.45,💯,hundred points,Smileys & Emotion,emotion
+1F4B0,0,0,0.58,0.44,0,0,0.06,0.16,0.47,0.38,0.06,0.16,0.25,0.33,0.36,0.37,💰,money bag,Objects,money
+1F4F7,0,0,0.19,0.28,0.03,0.08,0,0,0.14,0.21,0,0,0.08,0.24,0.08,0.24,📷,camera,Objects,light & video
+1F51E,0.11,0.17,0.11,0.17,0.08,0.24,0.03,0.08,0.08,0.24,0.11,0.31,0,0,0.19,0.37,🔞,no one under eighteen,Symbols,warning
+1F525,0.47,0.38,0.22,0.32,0.14,0.31,0.17,0.33,0.25,0.37,0.11,0.31,0.39,0.39,0.14,0.31,🔥,fire,Travel & Places,sky & weather
+1F52B,0.44,0.35,0.14,0.21,0.17,0.26,0.14,0.31,0.03,0.08,0.14,0.27,0,0,0.11,0.31,🔫,pistol,Objects,tool
+1F534,0.08,0.17,0.06,0.16,0,0,0.11,0.31,0,0,0.03,0.08,0.19,0.37,0,0,🔴,red circle,Symbols,geometric
+1F600,0.06,0.16,0.22,0.25,0.06,0.16,0.06,0.16,0.69,0.31,0.06,0.16,0.14,0.21,0.25,0.33,😀,grinning face,Smileys & Emotion,face-smiling
+1F601,0.06,0.16,0.25,0.33,0,0,0.08,0.17,0.89,0.17,0.06,0.16,0.33,0.26,0.36,0.37,😁,beaming face with smiling eyes,Smileys & Emotion,face-smiling
+1F602,0,0,0.17,0.2,0.06,0.1,0.06,0.16,0.94,0.16,0,0,0.33,0.33,0.22,0.32,😂,face with tears of joy,Smileys & Emotion,face-smiling
+1F603,0,0,0.31,0.35,0,0,0.06,0.16,0.83,0.2,0,0,0.33,0.26,0.36,0.39,😃,grinning face with big eyes,Smileys & Emotion,face-smiling
+1F604,0,0,0.36,0.36,0,0,0,0,0.86,0.31,0,0,0.28,0.32,0.28,0.4,😄,grinning face with smiling eyes,Smileys & Emotion,face-smiling
+1F605,0.08,0.17,0.44,0.39,0.06,0.16,0.28,0.32,0.42,0.37,0.06,0.16,0.36,0.34,0.17,0.17,😅,grinning face with sweat,Smileys & Emotion,face-smiling
+1F606,0.06,0.16,0.19,0.2,0.06,0.16,0.06,0.16,0.94,0.16,0.06,0.16,0.25,0.33,0.31,0.4,😆,grinning squinting face,Smileys & Emotion,face-smiling
+1F607,0,0,0.31,0.35,0,0,0,0,0.72,0.27,0,0,0.17,0.26,0.5,0.42,😇,smiling face with halo,Smileys & Emotion,face-smiling
+1F608,0.14,0.21,0.44,0.23,0.06,0.16,0.19,0.33,0.33,0.24,0.08,0.24,0.03,0.08,0,0,😈,smiling face with horns,Smileys & Emotion,face-negative
+1F609,0,0,0.42,0.37,0,0,0,0,0.44,0.26,0.08,0.24,0.28,0.32,0.47,0.32,😉,winking face,Smileys & Emotion,face-smiling
+1F60A,0,0,0.42,0.33,0,0,0,0,0.92,0.12,0,0,0.33,0.31,0.47,0.32,😊,smiling face with smiling eyes,Smileys & Emotion,face-smiling
+1F60B,0,0,0.47,0.34,0,0,0,0,0.78,0.22,0,0,0.19,0.31,0.11,0.24,😋,face savoring food,Smileys & Emotion,face-tongue
+1F60C,0,0,0.33,0.39,0,0,0.11,0.31,0.81,0.26,0,0,0.22,0.32,0.61,0.41,😌,relieved face,Smileys & Emotion,face-sleepy
+1F60D,0,0,0.31,0.35,0,0,0,0,0.83,0.17,0,0,0.5,0.42,0.5,0.42,😍,smiling face with heart-eyes,Smileys & Emotion,face-affection
+1F60E,0,0,0.22,0.36,0,0,0,0,0.75,0.31,0,0,0.06,0.16,0.33,0.41,😎,smiling face with sunglasses,Smileys & Emotion,face-glasses
+1F60F,0.22,0.32,0.33,0.42,0.28,0.3,0.14,0.27,0.22,0.32,0.22,0.32,0.11,0.17,0.22,0.27,😏,smirking face,Smileys & Emotion,face-neutral-skeptical
+1F610,0.14,0.21,0.33,0.26,0.31,0.26,0.17,0.2,0.06,0.16,0.25,0.33,0.31,0.28,0.08,0.17,😐,neutral face,Smileys & Emotion,face-neutral-skeptical
+1F611,0.28,0.36,0.22,0.32,0.47,0.27,0.14,0.27,0,0,0.33,0.37,0.19,0.33,0.17,0.33,😑,expressionless face,Smileys & Emotion,face-neutral-skeptical
+1F612,0.58,0.2,0.14,0.21,0.64,0.31,0.17,0.31,0,0,0.42,0.37,0.11,0.24,0,0,😒,unamused face,Smileys & Emotion,face-neutral-skeptical
+1F613,0.19,0.33,0.44,0.45,0.31,0.31,0.64,0.29,0,0,0.36,0.34,0.17,0.24,0.11,0.31,😓,downcast face with sweat,Smileys & Emotion,face-concerned
+1F614,0.25,0.35,0.22,0.36,0.31,0.35,0.28,0.36,0,0,0.72,0.34,0.19,0.37,0.14,0.27,😔,pensive face,Smileys & Emotion,face-sleepy
+1F615,0.19,0.31,0.42,0.31,0.36,0.31,0.36,0.37,0,0,0.39,0.31,0.28,0.36,0.17,0.31,😕,confused face,Smileys & Emotion,face-concerned
+1F616,0.22,0.25,0.36,0.46,0.67,0.31,0.5,0.37,0.08,0.24,0.53,0.27,0.11,0.24,0.11,0.31,😖,confounded face,Smileys & Emotion,face-concerned
+1F618,0,0,0.33,0.31,0,0,0,0,0.72,0.25,0,0,0.17,0.2,0.61,0.36,😘,face blowing a kiss,Smileys & Emotion,face-affection
+1F619,0,0,0.47,0.42,0,0,0,0,0.83,0.17,0,0,0.17,0.26,0.83,0.31,😙,kissing face with smiling eyes,Smileys & Emotion,face-affection
+1F61A,0,0,0.44,0.44,0,0,0,0,0.86,0.21,0,0,0.22,0.27,0.67,0.41,😚,kissing face with closed eyes,Smileys & Emotion,face-affection
+1F61B,0,0,0.31,0.37,0,0,0.03,0.08,0.69,0.35,0,0,0.28,0.32,0.19,0.28,😛,face with tongue,Smileys & Emotion,face-tongue
+1F61C,0,0,0.42,0.41,0,0,0.06,0.16,0.64,0.29,0,0,0.28,0.32,0.11,0.17,😜,winking face with tongue,Smileys & Emotion,face-tongue
+1F61D,0,0,0.22,0.3,0.06,0.16,0.08,0.24,0.83,0.2,0,0,0.22,0.32,0.14,0.31,😝,squinting face with tongue,Smileys & Emotion,face-tongue
+1F61E,0.39,0.36,0.19,0.26,0.5,0.31,0.33,0.33,0,0,0.92,0.17,0.06,0.16,0.08,0.24,😞,disappointed face,Smileys & Emotion,face-concerned
+1F61F,0.25,0.33,0.44,0.44,0.44,0.35,0.72,0.34,0,0,0.69,0.26,0.17,0.33,0.08,0.24,😟,worried face,Smileys & Emotion,face-concerned
+1F620,1,0,0.17,0.31,0.56,0.37,0.17,0.33,0,0,0.25,0.35,0.11,0.24,0.08,0.24,😠,angry face,Smileys & Emotion,face-negative
+1F621,1,0,0.11,0.31,0.56,0.31,0.11,0.31,0,0,0.36,0.31,0.08,0.17,0.06,0.16,😡,pouting face,Smileys & Emotion,face-negative
+1F622,0.25,0.29,0.08,0.17,0.36,0.39,0.5,0.33,0,0,1,0,0.08,0.24,0.11,0.31,😢,crying face,Smileys & Emotion,face-concerned
+1F623,0.31,0.35,0.28,0.36,0.67,0.33,0.47,0.34,0,0,0.64,0.31,0,0,0.08,0.24,😣,persevering face,Smileys & Emotion,face-concerned
+1F624,0.75,0.2,0.11,0.24,0.64,0.43,0.14,0.27,0,0,0.25,0.26,0.03,0.08,0,0,😤,face with steam from nose,Smileys & Emotion,face-negative
+1F625,0.14,0.24,0.19,0.33,0.25,0.2,0.33,0.33,0.03,0.08,0.81,0.26,0.08,0.12,0.06,0.16,😥,sad but relieved face,Smileys & Emotion,face-concerned
+1F628,0.17,0.33,0.39,0.37,0.33,0.39,0.97,0.08,0,0,0.56,0.37,0.39,0.39,0.14,0.24,😨,fearful face,Smileys & Emotion,face-concerned
+1F629,0.33,0.35,0.25,0.31,0.5,0.37,0.47,0.3,0,0,0.75,0.2,0.14,0.24,0.08,0.24,😩,weary face,Smileys & Emotion,face-concerned
+1F62A,0.11,0.17,0.08,0.24,0.44,0.37,0.28,0.27,0,0,0.64,0.34,0.06,0.16,0,0,😪,sleepy face,Smileys & Emotion,face-sleepy
+1F62B,0.36,0.31,0.14,0.24,0.64,0.21,0.17,0.2,0.11,0.31,0.72,0.18,0.06,0.16,0.06,0.16,😫,tired face,Smileys & Emotion,face-concerned
+1F62C,0.14,0.21,0.53,0.36,0.28,0.32,0.44,0.39,0.17,0.2,0.11,0.21,0.25,0.37,0.11,0.17,😬,grimacing face,Smileys & Emotion,face-neutral-skeptical
+1F62D,0.22,0.36,0.08,0.24,0.36,0.36,0.33,0.39,0,0,1,0,0.08,0.17,0.08,0.24,😭,loudly crying face,Smileys & Emotion,face-concerned
+1F630,0.22,0.36,0.31,0.35,0.39,0.41,0.83,0.26,0,0,0.69,0.31,0.08,0.24,0.06,0.16,😰,anxious face with sweat,Smileys & Emotion,face-concerned
+1F631,0.28,0.36,0.42,0.39,0.42,0.41,0.92,0.17,0.06,0.1,0.25,0.31,0.69,0.33,0.11,0.31,😱,face screaming in fear,Smileys & Emotion,face-concerned
+1F633,0.06,0.1,0.36,0.29,0.33,0.35,0.5,0.37,0.14,0.27,0.19,0.33,0.44,0.39,0.08,0.24,😳,flushed face,Smileys & Emotion,face-concerned
+1F634,0,0,0.06,0.16,0.14,0.31,0,0,0.03,0.08,0.03,0.08,0,0,0.03,0.08,😴,sleeping face,Smileys & Emotion,face-sleepy
+1F636,0.06,0.16,0.22,0.22,0.33,0.35,0.36,0.29,0,0,0.14,0.21,0.19,0.37,0.03,0.08,😶,face without mouth,Smileys & Emotion,face-neutral-skeptical
+1F637,0.03,0.08,0.17,0.31,0.53,0.4,0.5,0.33,0,0,0.22,0.18,0.03,0.08,0.11,0.31,😷,face with medical mask,Smileys & Emotion,face-unwell
+1F639,0,0,0.17,0.33,0,0,0,0,0.94,0.1,0,0,0.14,0.21,0.28,0.36,😹,cat with tears of joy,Smileys & Emotion,cat-face
+1F63B,0,0,0.42,0.33,0,0,0,0,0.75,0.35,0.06,0.1,0.33,0.33,0.42,0.37,😻,smiling cat with heart-eyes,Smileys & Emotion,cat-face
+1F645,0.47,0.3,0.25,0.31,0.53,0.34,0.33,0.37,0.06,0.16,0.33,0.41,0.11,0.21,0.19,0.37,🙅,person gesturing NO,People & Body,person-gesture
+1F646,0.03,0.08,0.33,0.41,0,0,0,0,0.39,0.34,0,0,0.03,0.08,0.61,0.39,🙆,person gesturing OK,People & Body,person-gesture
+1F648,0,0,0.39,0.31,0.17,0.2,0.17,0.2,0.28,0.36,0.03,0.08,0.5,0.33,0.22,0.34,🙈,see-no-evil monkey,Smileys & Emotion,monkey-face
+1F64A,0.06,0.16,0.44,0.4,0.19,0.23,0.47,0.27,0.14,0.24,0.08,0.17,0.42,0.29,0.28,0.27,🙊,speak-no-evil monkey,Smileys & Emotion,monkey-face
+1F64B,0,0,0.53,0.38,0,0,0,0,0.44,0.37,0,0,0.19,0.33,0.25,0.31,🙋,person raising hand,People & Body,person-gesture
+1F64C,0,0,0.33,0.35,0,0,0,0,0.72,0.4,0,0,0.39,0.34,0.47,0.42,🙌,raising hands,People & Body,hands
+1F64F,0.06,0.16,0.44,0.45,0,0,0.11,0.31,0.25,0.35,0.11,0.31,0.17,0.31,0.58,0.47,🙏,folded hands,People & Body,hands
+203C,0.44,0.39,0.42,0.35,0.11,0.21,0.06,0.16,0.14,0.27,0,0,0.89,0.24,0.03,0.08,‼,double exclamation mark,Symbols,punctuation
+21A9,0,0,0.06,0.16,0,0,0,0,0,0,0,0,0,0,0.08,0.24,↩,right arrow curving left,Symbols,arrow
+21AA,0.06,0.16,0.19,0.37,0,0,0,0,0,0,0,0,0,0,0.11,0.31,↪,left arrow curving right,Symbols,arrow
+25B6,0,0,0.08,0.24,0,0,0,0,0.03,0.08,0,0,0,0,0,0,▶,play button,Symbols,av-symbol
+25C0,0,0,0.06,0.16,0,0,0,0,0,0,0,0,0.06,0.16,0.11,0.31,◀,reverse button,Symbols,av-symbol
+2600,0,0,0.22,0.34,0,0,0,0,0.44,0.23,0,0,0.06,0.16,0.14,0.27,☀,sun,Travel & Places,sky & weather
+2611,0,0,0.22,0.42,0,0,0,0,0.25,0.35,0,0,0,0,0.47,0.42,☑,check box with check,Symbols,other-symbol
+261D,0.11,0.31,0.31,0.4,0.11,0.31,0.11,0.31,0.03,0.08,0.11,0.31,0,0,0.17,0.33,☝,index pointing up,People & Body,hand-single-finger
+263A,0,0,0.42,0.35,0,0,0,0,1,0,0,0,0.39,0.31,0.5,0.37,☺,smiling face,Smileys & Emotion,face-affection
+2665,0,0,0.28,0.32,0,0,0,0,0.72,0.25,0,0,0.11,0.31,0.56,0.45,♥,heart suit,Activities,game
+267B,0.03,0.08,0.19,0.37,0.03,0.08,0,0,0.03,0.08,0.03,0.08,0,0,0.28,0.42,♻,recycling symbol,Symbols,other-symbol
+26A1,0.28,0.42,0.31,0.4,0.06,0.16,0.25,0.37,0.08,0.17,0,0,0.36,0.36,0.14,0.27,⚡,high voltage,Travel & Places,sky & weather
+26BD,0,0,0.33,0.42,0,0,0.06,0.16,0.25,0.26,0,0,0,0,0.06,0.16,⚽,soccer ball,Activities,sport
+2705,0,0,0.31,0.44,0,0,0,0,0.19,0.26,0,0,0,0,0.33,0.42,✅,check mark button,Symbols,other-symbol
+2708,0,0,0.44,0.44,0,0,0.11,0.31,0.28,0.36,0.11,0.31,0.19,0.33,0.28,0.42,✈,airplane,Travel & Places,transport-air
+270A,0.25,0.37,0.5,0.46,0.17,0.33,0.11,0.31,0.03,0.08,0.11,0.31,0.08,0.17,0.36,0.36,✊,raised fist,People & Body,hand-fingers-closed
+270B,0.22,0.27,0.25,0.37,0.19,0.33,0.11,0.21,0.06,0.16,0.06,0.16,0.08,0.17,0.28,0.36,✋,raised hand,People & Body,hand-fingers-open
+270C,0,0,0.42,0.44,0,0,0,0,0.61,0.31,0,0,0.17,0.26,0.47,0.34,✌,victory hand,People & Body,hand-fingers-partial
+2714,0,0,0.25,0.41,0,0,0,0,0.14,0.17,0,0,0,0,0.36,0.46,✔,check mark,Symbols,other-symbol
+2728,0,0,0.36,0.43,0,0,0.06,0.16,0.53,0.36,0,0,0.44,0.45,0.31,0.35,✨,sparkles,Activities,event
+2744,0.11,0.21,0.33,0.39,0.14,0.27,0.17,0.33,0.28,0.36,0.14,0.27,0.22,0.32,0.17,0.33,❄,snowflake,Travel & Places,sky & weather
+274C,0.5,0.39,0.14,0.31,0.58,0.35,0.25,0.41,0,0,0.31,0.4,0.08,0.17,0.06,0.16,❌,cross mark,Symbols,other-symbol
+2757,0.44,0.42,0.42,0.35,0.31,0.4,0.42,0.44,0.08,0.17,0.17,0.33,0.81,0.33,0.11,0.31,❗,exclamation mark,Symbols,punctuation
+2764,0,0,0.36,0.41,0,0,0,0,0.69,0.35,0,0,0.14,0.21,0.67,0.35,❤,red heart,Smileys & Emotion,emotion
+27A1,0,0,0.06,0.16,0,0,0,0,0,0,0,0,0,0,0.22,0.42,➡,right arrow,Symbols,arrow
+2B05,0.17,0.31,0.14,0.27,0.17,0.31,0.14,0.27,0,0,0.14,0.27,0.03,0.08,0.06,0.16,⬅,left arrow,Symbols,arrow
+2B50,0,0,0.17,0.26,0,0,0,0,0.39,0.31,0,0,0.17,0.33,0.22,0.34,⭐,star,Travel & Places,sky & weather
