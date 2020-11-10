@@ -1,18 +1,18 @@
-<img align="center" width="100%" src="images/EmoTag1200.png">
+<img align="center" width="100%" src="images/EmoTag1200.png" alt="EmoTag1200 dataset for emoji emotion">
 
 # EmoTag 👍 😄 
-An emoji-centric resources based on Twitter Data
+An emoji-centric NLP resources based on Twitter Data
 
 ## About
 
-EmoTag is collection of resources for analyzing emotion and sentiment of Emojis as well as Tweets written in English. The name EmoTag indicates its usefulness in exploiting emojis for emotional tagging.  
+EmoTag is a collection of resources for analyzing emotion and sentiment of Emojis as well as Tweets written in English. The name EmoTag indicates its usefulness in exploiting emojis for emotional tagging.  
 
 ## EmoTag Resources
-* **Baseline Emoji Emotion Scores**: 1200 Emoji-Emotion pairs annotated by human. It contains emotion scores ranging from 0 to 1 for 150 most popular Twitter emojis for 8 emotion classes (i.e. anger, anticipation, disgust, fear, joy, sadness, surprise, and trust). [[Download Scores](data/EmoTag1200-scores.csv)] [[Download Details](data/EmoTag1200-scores-details.csv)]  
+* **Baseline Emoji Emotion Scores**: 1200 Emoji-Emotion pairs annotated by humans. It contains emotion scores ranging from 0 to 1 for 150 most popular Twitter emojis for 8 emotion classes (i.e. anger, anticipation, disgust, fear, joy, sadness, surprise, and trust). [[Download Scores](data/EmoTag1200-scores.csv)] [[Download Details](data/EmoTag1200-scores-details.csv)]  
 
 * **Interpretable Word Vectors**: A 620-dimensional vector representation of words trained on 20.8 million emoji-centric Twitter data. This can be used as other word vectors i.e. Word2Vec. [[Download]()]
 
-* **Raw Tweets**: This contains a subset of tweets that we used in our experiments. Please contact us for the the entire dataset. [[Download](data/EmoTag-raw-data-1f639.csv)]  
+* **Raw Tweets**: This contains a subset of tweets that we used in our experiments. Please contact us for the entire dataset. [[Download](data/EmoTag-raw-data-1f639.csv)]  
 
 * **Word-Emoji Co-occurrence Frequencies**: This lexicon provides word-emoji co-occurrence frequencies observed in our dataset. [[Download](data/word-emoji-cooccur.zip)] 
 
