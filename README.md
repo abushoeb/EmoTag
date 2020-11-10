@@ -19,9 +19,8 @@ EmoTag is collection of resources for analyzing emotion and sentiment of Emojis 
 ## Relevant Papers and Citation
 Please cite the following paper if using any of our resources in an academic publication:
 
- * [EmoTag1200 👍 : Understanding the Association between Emojis 😄 and Emotions 😻](). Abu Awal Md Shoeb, and Gerard de Melo, EMNLP 2020, November 2020. [[BibTeX](https://github.com/abushoeb/emotag/bibtex/Shoeb-EmoTag1200.bib)][[Slide](https://github.com/abushoeb/emotag/presentation/Abu-Shoeb-EmoTag1200-EMNLP-2020-Main-Conference-3532.pdf)]
- * [EmoTag – Towards an Emotion-Based Analysis of Emojis](https://www.aclweb.org/anthology/R19-1126/). Abu Awal Md Shoeb, Shahab Raji, Gerard de Melo. RANLP 2019, September 2019. [[BibTex](https://github.com/abushoeb/emotag/bibtex/Shoeb-EmoTag.bib)][[Slide](https://github.com/abushoeb/emotag/presentation/Abu-Shoeb-EmoTag-RANLP-2019.pdf)]
-
+ * [EmoTag1200 👍 : Understanding the Association between Emojis 😄 and Emotions 😻](). Abu Awal Md Shoeb, and Gerard de Melo, EMNLP 2020, November 2020. [[BibTeX](/bibtex/Shoeb-EmoTag1200.bib)][[Slide](/presentation/Abu-Shoeb-EmoTag1200-EMNLP-2020-Main-Conference-3532.pdf)]
+ * [EmoTag – Towards an Emotion-Based Analysis of Emojis](https://www.aclweb.org/anthology/R19-1126/). Abu Awal Md Shoeb, Shahab Raji, Gerard de Melo. RANLP 2019, September 2019. [[BibTex](/bibtex/Shoeb-EmoTag.bib)][[Slide](/presentation/Abu-Shoeb-EmoTag-RANLP-2019.pdf)]
 
 
 ## Contact
