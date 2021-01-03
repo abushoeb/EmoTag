@@ -12,7 +12,7 @@ EmoTag is a collection of resources for analyzing the emotion and sentiment of E
 
 * **Interpretable Word Vectors**: A 620-dimensional vector representation of words trained on ~20.8 million emoji-centric Twitter data. This can be used as other word vectors i.e. Word2Vec. [[Download]()]
 
-* **Raw Tweets**: This contains Tweet IDs of ~20.8 million tweets used in our experiments. Please contact us if you need additional samples. [[Download All Tweet IDs](data/emotag-tweet-id.zip)][[Download Sample](data/EmoTag-raw-data-1f639.csv)]  
+* **Raw Tweets**: This contains Tweet IDs of ~20.8 million tweets used in our experiments. Please contact us if you need additional samples. [[Download All Tweet IDs](data/emotag-tweet-id.zip)] 
 
 * **Word-Emoji Co-occurrence Frequencies**: This lexicon provides word-emoji co-occurrence frequencies observed in our dataset. [[Download](data/word-emoji-cooccur.zip)] 
 

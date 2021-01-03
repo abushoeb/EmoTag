@@ -10,13 +10,13 @@ EmoTag is a collection of resources for analyzing the emotion and sentiment of E
 ## EmoTag Resources
 * **Baseline Emoji Emotion Scores**: 1200 Emoji-Emotion pairs annotated by humans. It contains emotion scores ranging from 0 to 1 for 150 most popular Twitter emojis for 8 emotion classes (i.e. anger, anticipation, disgust, fear, joy, sadness, surprise, and trust). [[Download Scores](data/EmoTag1200-scores.csv)] [[Download Details](data/EmoTag1200-scores-details.csv)]  
 
-* **Interpretable Word Vectors**: A 620-dimensional vector representation of words trained on 20.8 million emoji-centric Twitter data. This can be used as other word vectors i.e. Word2Vec. [[Download]()]
+* **Interpretable Word Vectors**: A 620-dimensional vector representation of words trained on ~20.8 million emoji-centric Twitter data. This can be used as other word vectors i.e. Word2Vec. [[Download]()]
 
-* **Raw Tweets**: This contains a subset of tweets that we used in our experiments. Please contact us for the entire dataset. [[Download](data/EmoTag-raw-data-1f639.csv)]  
+* **Raw Tweets**: This contains Tweet IDs of ~20.8 million tweets used in our experiments. Please contact us if you need additional samples. [[Download All Tweet IDs](data/emotag-tweet-id.zip)] 
 
 * **Word-Emoji Co-occurrence Frequencies**: This lexicon provides word-emoji co-occurrence frequencies observed in our dataset. [[Download](data/word-emoji-cooccur.zip)] 
 
-* **Emoji-Emoji Co-occurrence Frequencies**: This is the subset of the previous lexicon (i.e. Word-Emoji co-occurrences) which contains only emoji-emoji co-occurrence counts observed in our dataset. This would be useful if someone quickly wants to find co-occurring emojis. [[Download](/data/emoji-emoji-cooccur.zip)] 
+* **Emoji-Emoji Co-occurrence Frequencies**: This is the subset of the previous lexicon (i.e. Word-Emoji co-occurrences) which contains only emoji-emoji co-occurrence counts observed in our dataset. This would be useful if someone quickly wants to find co-occurring emojis. [[Download](/data/emotag-emoji-emoji-cooccur.zip)] 
 
 ## Relevant Papers and Citation
 Please cite the following paper if using any of our resources in an academic publication:
