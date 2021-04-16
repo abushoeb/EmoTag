@@ -10,7 +10,7 @@ EmoTag is a collection of resources for analyzing the emotion and sentiment of E
 ## EmoTag Resources
 * **Baseline Emoji Emotion Scores**: 1200 Emoji-Emotion pairs annotated by humans. It contains emotion scores ranging from 0 to 1 for 150 most popular Twitter emojis for 8 emotion classes (i.e. anger, anticipation, disgust, fear, joy, sadness, surprise, and trust). [[Download Scores](data/EmoTag1200-scores.csv)] [[Download Details](data/EmoTag1200-scores-details.csv)]  
 
-* **Interpretable Word Vectors**: A 620-dimensional vector representation of words trained on ~20.8 million emoji-centric Twitter data. This can be used as other word vectors i.e. Word2Vec. [[Download]()]
+* **Interpretable Word Vectors**: A 620-dimensional vector representation of words and emojis trained on ~20.8 million emoji-centric Twitter data. [[Download](https://drive.google.com/drive/folders/1_mAUwwsV_DgfPQOtlH5S2O8Evq7QJaNx?usp=sharing)]
 
 * **Raw Tweets**: This contains Tweet IDs of ~20.8 million tweets used in our experiments. Please contact us if you need additional samples. [[Download All Tweet IDs](data/emotag-tweet-id.zip)] 
 
