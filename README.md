@@ -14,7 +14,7 @@ EmoTag is a collection of resources for analyzing the emotion and sentiment of E
 
 * **Raw Tweets**: This contains Tweet IDs of ~20.8 million tweets used in our experiments. Please contact us if you need additional samples. [[Download All Tweet IDs](data/emotag-tweet-id.zip)] 
 
-* **Word-Emoji Co-occurrence Frequencies**: This lexicon provides word-emoji co-occurrence frequencies observed in our dataset. [[Download](data/word-emoji-cooccur.zip)] 
+* **Word-Emoji Co-occurrence Frequencies**: This lexicon provides word-emoji co-occurrence frequencies observed in our dataset. [[Download](data/emotag-cooccurrence-frequencies.csv.zip)] 
 
 * **Emoji-Emoji Co-occurrence Frequencies**: This is the subset of the previous lexicon (i.e. Word-Emoji co-occurrences) which contains only emoji-emoji co-occurrence counts observed in our dataset. This would be useful if someone quickly wants to find co-occurring emojis. [[Download](/data/emotag-emoji-emoji-cooccur.zip)] 
 
